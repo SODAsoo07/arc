@@ -1,0 +1,1750 @@
+0011/Surprise/0011_001444.wav|Take courage all isn't lost yet.|Surprise
+0011/Surprise/0011_001422.wav|And what are doves. And what are doves.|Surprise
+0011/Surprise/0011_001443.wav|Story twenty nine a boy and a monkey.|Surprise
+0011/Surprise/0011_001427.wav|Monster made a deep bow.|Surprise
+0011/Surprise/0011_001446.wav|They'd never know I'd regular ran away.|Surprise
+0011/Surprise/0011_001442.wav|She may mind ye of her.|Surprise
+0011/Surprise/0011_001437.wav|I think it'll encourage me.|Surprise
+0011/Surprise/0011_001445.wav|The nastiest things they saw were the cobwebs.|Surprise
+0011/Surprise/0011_001433.wav|This used to be Jerry's occupation.|Surprise
+0011/Surprise/0011_001429.wav|Rat came and replied on the leaves.|Surprise
+0011/Surprise/0011_001428.wav|She had said, so that one could keep up a conversation!|Surprise
+0011/Surprise/0011_001432.wav|Who is been repeating all that hard stuff to you?|Surprise
+0011/Surprise/0011_001449.wav|Then we all say aha!|Surprise
+0011/Surprise/0011_001450.wav|Rabbit gave dog a hurrying up sort of nudge.|Surprise
+0011/Surprise/0011_001440.wav|In which fox loses a tail and its elder sister finds one.|Surprise
+0011/Surprise/0011_001441.wav|I chose the right way.|Surprise
+0011/Surprise/0011_001439.wav|Our thanks to God's oath.|Surprise
+0011/Surprise/0011_001421.wav|As rich as Peter's son in law!|Surprise
+0011/Surprise/0011_001435.wav|The name really is an agedaged man.|Surprise
+0011/Surprise/0011_001423.wav|I thought you meant how old are you?|Surprise
+0011/Surprise/0011_001447.wav|please excuse me.|Surprise
+0011/Surprise/0011_001425.wav|She is now choosing skirt to wear.|Surprise
+0011/Surprise/0011_001438.wav|Hold up my chin, slow and solid.|Surprise
+0011/Surprise/0011_001436.wav|How I hate this foul pool!|Surprise
+0011/Surprise/0011_001424.wav|The football teams give a tea party.|Surprise
+0011/Surprise/0011_001431.wav|All smile were real and the happier the more sincere .|Surprise
+0011/Surprise/0011_001426.wav|Let's make the noise of a snake.|Surprise
+0011/Surprise/0011_001448.wav|You are not a runaway,who are you?|Surprise
+0011/Surprise/0011_001430.wav|Must a name mean something?|Surprise
+0011/Surprise/0011_001434.wav|A divine wrath made her blue eyes awful.|Surprise
+0011/Happy/0011_000734.wav|A divine wrath made her blue eyes awful.|Happy
+0011/Happy/0011_000726.wav|Let's make the noise a snake.|Happy
+0011/Happy/0011_000737.wav|I think it'll encourage me.|Happy
+0011/Happy/0011_000744.wav|Take courage all isn't lost yet.|Happy
+0011/Happy/0011_000745.wav|The nastiest things they saw were the cobwebs.|Happy
+0011/Happy/0011_000721.wav|As rich as Peter's son in law!|Happy
+0011/Happy/0011_000742.wav|She may mind ye of her.|Happy
+0011/Happy/0011_000725.wav|She is now choosing skirt to wear.|Happy
+0011/Happy/0011_000747.wav|please excuse me.|Happy
+0011/Happy/0011_000728.wav|She had said, so that no one could keep up a conversation!|Happy
+0011/Happy/0011_000722.wav|And what are doves. And what are doves.|Happy
+0011/Happy/0011_000743.wav|Story twenty nine a boy and a monkey.|Happy
+0011/Happy/0011_000749.wav|Then we all say aha!|Happy
+0011/Happy/0011_000740.wav|In which fox loses a tail and its elder sister finds one.|Happy
+0011/Happy/0011_000741.wav|I chose the right way.|Happy
+0011/Happy/0011_000733.wav|This used to be Jerry's occupation.|Happy
+0011/Happy/0011_000736.wav|How I hate this foul pool!|Happy
+0011/Happy/0011_000748.wav|You are not a runaway,who are you?|Happy
+0011/Happy/0011_000735.wav|The name really is an agedaged man.|Happy
+0011/Happy/0011_000731.wav|All smile were real and the happier the more sincere .|Happy
+0011/Happy/0011_000730.wav|Must a name mean something?|Happy
+0011/Happy/0011_000750.wav|Rabbit gave dog a hurrying up sort of nudge.|Happy
+0011/Happy/0011_000729.wav|Rat came and replied on the leaves.|Happy
+0011/Happy/0011_000738.wav|Hold up my chin, slow and solid.|Happy
+0011/Happy/0011_000727.wav|Monster made a deep bow.|Happy
+0011/Happy/0011_000723.wav|I thought you meant how old are you?|Happy
+0011/Happy/0011_000739.wav|Our thanks to God's oath.|Happy
+0011/Happy/0011_000724.wav|The football teams give a tea party.|Happy
+0011/Happy/0011_000732.wav|Who is repeating all that hard stuff to you?|Happy
+0011/Happy/0011_000746.wav|They'd never know I'd regular ran away.|Happy
+0011/Angry/0011_000382.wav|Who is been repeating all that hard stuff to you?|Angry
+0011/Angry/0011_000371.wav|As rich-as Peter's son in law!|Angry
+0011/Angry/0011_000390.wav|In which fox loses a tail and its elder sister finds one.|Angry
+0011/Angry/0011_000393.wav|Story twenty nine a boy and a monkey.|Angry
+0011/Angry/0011_000399.wav|Then we all say aha!|Angry
+0011/Angry/0011_000380.wav|Must a name mean something?|Angry
+0011/Angry/0011_000397.wav|please excuse me.|Angry
+0011/Angry/0011_000379.wav|Rat came and replied on the leaves.|Angry
+0011/Angry/0011_000384.wav|A divine wrath made her blue eyes awful.|Angry
+0011/Angry/0011_000395.wav|The nastiest things they saw were the cobwebs.|Angry
+0011/Angry/0011_000372.wav|And what are doves. And what are doves.|Angry
+0011/Angry/0011_000381.wav|All smile were real and the happier the more sincere .|Angry
+0011/Angry/0011_000375.wav|She is now choosing skirt to wear.|Angry
+0011/Angry/0011_000400.wav|Rabbit gave dog a hurrying up sort of nudge.|Angry
+0011/Angry/0011_000391.wav|I chose the right way.|Angry
+0011/Angry/0011_000389.wav|Our thanks to God's oath.|Angry
+0011/Angry/0011_000385.wav|The name really is the agedaged man.|Angry
+0011/Angry/0011_000377.wav|Monster made a deep bow.|Angry
+0011/Angry/0011_000398.wav|You are not a runaway,who are you?|Angry
+0011/Angry/0011_000387.wav|I think it'll encourage me.|Angry
+0011/Angry/0011_000383.wav|This used to be Jerry's occupation.|Angry
+0011/Angry/0011_000386.wav|How I hate this foul pool!|Angry
+0011/Angry/0011_000378.wav|She had said, so that one could keep up a conversation!|Angry
+0011/Angry/0011_000394.wav|Take courage all isn't lost yet.|Angry
+0011/Angry/0011_000392.wav|She may mind ye of her.|Angry
+0011/Angry/0011_000374.wav|The football teams give a tea party.|Angry
+0011/Angry/0011_000373.wav|I thought you meant how old are you?|Angry
+0011/Angry/0011_000396.wav|They'd never know I'd regular ran away.|Angry
+0011/Angry/0011_000376.wav|Let's make the noise a snake.|Angry
+0011/Angry/0011_000388.wav|Hold up my chin, slow and solid.|Angry
+0011/Neutral/0011_000035.wav|The name really is the agedaged man.|Neutral
+0011/Neutral/0011_000030.wav|Must a name mean something?|Neutral
+0011/Neutral/0011_000028.wav|She had said, so that one could keep up a conversation!|Neutral
+0011/Neutral/0011_000048.wav|You are not a runaway,who are you?|Neutral
+0011/Neutral/0011_000032.wav|Who is been repeating all that hard stuff to you?|Neutral
+0011/Neutral/0011_000049.wav|Then we all say aha!|Neutral
+0011/Neutral/0011_000026.wav|Let's make the noise like a snake.|Neutral
+0011/Neutral/0011_000027.wav|Monster made a deep bow.|Neutral
+0011/Neutral/0011_000034.wav|A divine wrath made her blue eyes awful.|Neutral
+0011/Neutral/0011_000045.wav|The nastiest things they saw were the cobwebs.|Neutral
+0011/Neutral/0011_000046.wav|They'd never know I'd regular ran away.|Neutral
+0011/Neutral/0011_000042.wav|She may mind ye of her.|Neutral
+0011/Neutral/0011_000025.wav|She is now choosing skirt to wear.|Neutral
+0011/Neutral/0011_000038.wav|Hold up my chin, slow and solid.|Neutral
+0011/Neutral/0011_000023.wav|I thought you meant how old are you?|Neutral
+0011/Neutral/0011_000021.wav|As rich as Peter's son in law!|Neutral
+0011/Neutral/0011_000047.wav|please excuse me.|Neutral
+0011/Neutral/0011_000041.wav|I chose the right way.|Neutral
+0011/Neutral/0011_000024.wav|The football teams give a tea party.|Neutral
+0011/Neutral/0011_000033.wav|This used to be Jerry's occupation.|Neutral
+0011/Neutral/0011_000037.wav|I think it'll encourage me.|Neutral
+0011/Neutral/0011_000031.wav|All smile were real and the happier the more sincere .|Neutral
+0011/Neutral/0011_000039.wav|Our thanks to God's oath.|Neutral
+0011/Neutral/0011_000043.wav|Story twenty nine a boy and a monkey.|Neutral
+0011/Neutral/0011_000050.wav|Rabbit gave dog a hurrying up sort of nudge.|Neutral
+0011/Neutral/0011_000036.wav|How I hate this foul pool!|Neutral
+0011/Neutral/0011_000040.wav|In which fox loses a tail and its elder sister finds one.|Neutral
+0011/Neutral/0011_000029.wav|Rat came and replied on the leaves.|Neutral
+0011/Neutral/0011_000022.wav|And what are doves. And what are doves.|Neutral
+0011/Neutral/0011_000044.wav|Take courage all isn't lost yet.|Neutral
+0011/Sad/0011_001082.wav|Who is been repeating all that hard stuff to you?|Sad
+0011/Sad/0011_001083.wav|This used to be Jerry's occupation.|Sad
+0011/Sad/0011_001084.wav|A divine wrath made her blue eyes awful.|Sad
+0011/Sad/0011_001100.wav|Rabbit gave dog a hurrying up sort of nudge.|Sad
+0011/Sad/0011_001085.wav|The name really is the agedaged man.|Sad
+0011/Sad/0011_001078.wav|She had said, so that one could keep up a conversation!|Sad
+0011/Sad/0011_001073.wav|I thought you meant how old are you?|Sad
+0011/Sad/0011_001089.wav|Our thanks to God's oath.|Sad
+0011/Sad/0011_001072.wav|And what are doves. And what are doves.|Sad
+0011/Sad/0011_001092.wav|She may mind ye of her.|Sad
+0011/Sad/0011_001090.wav|In which fox loses a tail and its elder sister finds one.|Sad
+0011/Sad/0011_001079.wav|Rat came and replied on the leaves.|Sad
+0011/Sad/0011_001099.wav|Then we all say aha!|Sad
+0011/Sad/0011_001094.wav|Take courage all isn't lost yet.|Sad
+0011/Sad/0011_001080.wav|Must a name mean something?|Sad
+0011/Sad/0011_001074.wav|The football teams give a tea party.|Sad
+0011/Sad/0011_001075.wav|She is now choosing skirt to wear.|Sad
+0011/Sad/0011_001077.wav|Monster made a deep bow.|Sad
+0011/Sad/0011_001091.wav|I chose the right way.|Sad
+0011/Sad/0011_001081.wav|All smile were real and the happier the more sincere .|Sad
+0011/Sad/0011_001098.wav|You are not a runaway,who are you?|Sad
+0011/Sad/0011_001087.wav|I think it'll encourage me.|Sad
+0011/Sad/0011_001088.wav|Hold up my chin, slow and solid.|Sad
+0011/Sad/0011_001095.wav|The nastiest things they saw were the cobwebs.|Sad
+0011/Sad/0011_001097.wav|please excuse me.|Sad
+0011/Sad/0011_001076.wav|Let's make the noise a snake.|Sad
+0011/Sad/0011_001093.wav|Story twenty nine a boy and a monkey.|Sad
+0011/Sad/0011_001071.wav|As rich as Peter's son in law!|Sad
+0011/Sad/0011_001086.wav|How I hate this foul pool!|Sad
+0011/Sad/0011_001096.wav|They'd never know I'd regular ran away.|Sad
+0011/Surprise/0011_001401.wav|The nine the eggs, I keep.|Surprise
+0011/Surprise/0011_001420.wav|At the roots of a bush of a grass.|Surprise
+0011/Surprise/0011_001410.wav|A nauseous draught.|Surprise
+0011/Surprise/0011_001405.wav|Clear than clear water!|Surprise
+0011/Surprise/0011_001415.wav|Poor Tom is now dead!|Surprise
+0011/Surprise/0011_001404.wav|They went up to the dark mass job had pointed out.|Surprise
+0011/Surprise/0011_001408.wav|That was his chief thought.|Surprise
+0011/Surprise/0011_001402.wav|I did go, and made many prisoners.|Surprise
+0011/Surprise/0011_001409.wav|On the twenty second of last march.|Surprise
+0011/Surprise/0011_001418.wav|Then sadly it is much farther.|Surprise
+0011/Surprise/0011_001406.wav|Andy what's the guy to the gimble.|Surprise
+0011/Surprise/0011_001414.wav|Annie please please don't hurt me!|Surprise
+0011/Surprise/0011_001413.wav|I have bunburyed all over goat on two separate occasions.|Surprise
+0011/Surprise/0011_001411.wav|Chapter ten a warm welcome.|Surprise
+0011/Surprise/0011_001412.wav|Her shoes were like fishes.|Surprise
+0011/Surprise/0011_001403.wav|That I owe my thanks to you.|Surprise
+0011/Surprise/0011_001417.wav|Why has the egg not broken?|Surprise
+0011/Surprise/0011_001419.wav|At the end of four.|Surprise
+0011/Surprise/0011_001407.wav|I'm as bad as I can be.|Surprise
+0011/Surprise/0011_001416.wav|Mister share man, I move for a division.|Surprise
+0011/Happy/0011_000710.wav|A nauseous draught.|Happy
+0011/Happy/0011_000718.wav|Then sadly it is much farther.|Happy
+0011/Happy/0011_000712.wav|Her shoes were like fishes.|Happy
+0011/Happy/0011_000713.wav|I have bunburyed all over goat on two separate occasions.|Happy
+0011/Happy/0011_000714.wav|Annie please please don't hurt me!|Happy
+0011/Happy/0011_000706.wav|Andy what's the guy and to gimble.|Happy
+0011/Happy/0011_000715.wav|Poor Tom now is dead!|Happy
+0011/Happy/0011_000701.wav|The nine the eggs, I keep.|Happy
+0011/Happy/0011_000709.wav|On the twenty second of last march.|Happy
+0011/Happy/0011_000707.wav|I'm as bad as I can be.|Happy
+0011/Happy/0011_000708.wav|That was his chief thought.|Happy
+0011/Happy/0011_000719.wav|At the end of four.|Happy
+0011/Happy/0011_000705.wav|Clear than clear water!|Happy
+0011/Happy/0011_000720.wav|At the roots of a bush of a grass.|Happy
+0011/Happy/0011_000703.wav|That I owe my thanks to you.|Happy
+0011/Happy/0011_000711.wav|Chapter ten a warm welcome.|Happy
+0011/Happy/0011_000717.wav|Why has this egg not broken?|Happy
+0011/Happy/0011_000702.wav|I did go, and made many prisoners.|Happy
+0011/Happy/0011_000704.wav|They went up to the dark mass job had pointed out.|Happy
+0011/Happy/0011_000716.wav|Mister share man, I move for a division.|Happy
+0011/Angry/0011_000352.wav|I did go, and made many prisoners.|Angry
+0011/Angry/0011_000357.wav|I'm as bad as I can be.|Angry
+0011/Angry/0011_000354.wav|They went up to the dark mass job had pointed out.|Angry
+0011/Angry/0011_000362.wav|Her shoes were like fishes.|Angry
+0011/Angry/0011_000361.wav|Chapter ten a warm welcome.|Angry
+0011/Angry/0011_000355.wav|Clear than clear water!|Angry
+0011/Angry/0011_000364.wav|Annie please please don't hurt me!|Angry
+0011/Angry/0011_000360.wav|A nauseous draught.|Angry
+0011/Angry/0011_000369.wav|At the end of four.|Angry
+0011/Angry/0011_000356.wav|Andy what's the gyre and to the gimble.|Angry
+0011/Angry/0011_000370.wav|At the roots-of a bush of a grass.|Angry
+0011/Angry/0011_000367.wav|Why has this egg not broken?|Angry
+0011/Angry/0011_000365.wav|Poor Tom now is dead!|Angry
+0011/Angry/0011_000366.wav|Mister share man, I move for a division.|Angry
+0011/Angry/0011_000358.wav|That was his chief thought.|Angry
+0011/Angry/0011_000351.wav|The nine the eggs, I keep.|Angry
+0011/Angry/0011_000353.wav|That I owe my thanks to you.|Angry
+0011/Angry/0011_000368.wav|Then sadly it is much farther.|Angry
+0011/Angry/0011_000363.wav|I have bunburyed all over goat on two separate occasions.|Angry
+0011/Angry/0011_000359.wav|On the twenty second of last march.|Angry
+0011/Neutral/0011_000019.wav|At the end of four.|Neutral
+0011/Neutral/0011_000016.wav|Mister share man, I move for a division.|Neutral
+0011/Neutral/0011_000020.wav|At the roots of a bush of a grass.|Neutral
+0011/Neutral/0011_000015.wav|Poor Tom now is dead!|Neutral
+0011/Neutral/0011_000014.wav|Annie please please don't hurt me!|Neutral
+0011/Neutral/0011_000006.wav|Andy what's the gyre and to gimble.|Neutral
+0011/Neutral/0011_000017.wav|Why has this egg not broken?|Neutral
+0011/Neutral/0011_000002.wav|I did go, and made many prisoners.|Neutral
+0011/Neutral/0011_000001.wav|The nine the eggs, I keep.|Neutral
+0011/Neutral/0011_000012.wav|Her shoes were like fishes.|Neutral
+0011/Neutral/0011_000008.wav|That was his chief thought.|Neutral
+0011/Neutral/0011_000003.wav|That I owe my thanks to you.|Neutral
+0011/Neutral/0011_000005.wav|Clear than clear water!|Neutral
+0011/Neutral/0011_000010.wav|A nauseous draught.|Neutral
+0011/Neutral/0011_000009.wav|On the twenty second of last march.|Neutral
+0011/Neutral/0011_000011.wav|Chapter ten a warm welcome.|Neutral
+0011/Neutral/0011_000018.wav|Then sadly it is much farther.|Neutral
+0011/Neutral/0011_000004.wav|They went up to the dark mass job had pointed out.|Neutral
+0011/Neutral/0011_000007.wav|I'm as bad as I can be.|Neutral
+0011/Neutral/0011_000013.wav|I have bunburyed all over goat on two separate occasions.|Neutral
+0011/Sad/0011_001054.wav|They went up to the dark mass job had pointed out.|Sad
+0011/Sad/0011_001070.wav|At the roots of a bush of a grass.|Sad
+0011/Sad/0011_001053.wav|That I owe my thanks to you.|Sad
+0011/Sad/0011_001065.wav|Poor Tom now is dead!|Sad
+0011/Sad/0011_001067.wav|Why has this egg not broken?|Sad
+0011/Sad/0011_001069.wav|At the end of four.|Sad
+0011/Sad/0011_001066.wav|Mister share man, I move for a division.|Sad
+0011/Sad/0011_001064.wav|Annie please please don't hurt me!|Sad
+0011/Sad/0011_001052.wav|I did go, and made many many prisoners.|Sad
+0011/Sad/0011_001057.wav|I'm as bad as I can be.|Sad
+0011/Sad/0011_001062.wav|Her shoes were like fishes.|Sad
+0011/Sad/0011_001056.wav|Andy what's the guy to gimble.|Sad
+0011/Sad/0011_001055.wav|Clear than clear water!|Sad
+0011/Sad/0011_001063.wav|I have bunburyed all over goat on two separate occasions.|Sad
+0011/Sad/0011_001059.wav|On the twenty second of last march.|Sad
+0011/Sad/0011_001051.wav|The nine the eggs, I keep.|Sad
+0011/Sad/0011_001061.wav|Chapter ten a warm welcome.|Sad
+0011/Sad/0011_001058.wav|That was his chief thought.|Sad
+0011/Sad/0011_001068.wav|Then sadly it is much farther.|Sad
+0011/Sad/0011_001060.wav|A nauseous draught.|Sad
+0011/Surprise/0011_001553.wav|But we are not high yet.|Surprise
+0011/Surprise/0011_001678.wav|I know you .|Surprise
+0011/Surprise/0011_001659.wav|The song is called Ways and Means.|Surprise
+0011/Surprise/0011_001545.wav|Reed by the living pool!|Surprise
+0011/Surprise/0011_001628.wav|It says no way! shouted Daisy.|Surprise
+0011/Surprise/0011_001532.wav|I thank you for this mercy!|Surprise
+0011/Surprise/0011_001511.wav|We nightly dance our heyday guise.|Surprise
+0011/Surprise/0011_001723.wav|Why did I wake up!|Surprise
+0011/Surprise/0011_001749.wav|What do you think of this question?|Surprise
+0011/Surprise/0011_001607.wav|who What am I, a racer, son of god.|Surprise
+0011/Surprise/0011_001590.wav|And they were sandy yellow brownish all over.|Surprise
+0011/Surprise/0011_001730.wav|She keeps saying I'm hers.|Surprise
+0011/Surprise/0011_001733.wav|You gain for nothing girl!|Surprise
+0011/Surprise/0011_001536.wav|She has eaten the tapioca all of it.|Surprise
+0011/Surprise/0011_001540.wav|What an impetuous boy he is!|Surprise
+0011/Surprise/0011_001568.wav|I said you looked like an egg, sir.|Surprise
+0011/Surprise/0011_001704.wav|How do you like you dirty bird!|Surprise
+0011/Surprise/0011_001515.wav|He might call it, for example.|Surprise
+0011/Surprise/0011_001600.wav|That cloth does not look like worth much!|Surprise
+0011/Surprise/0011_001668.wav|He showed no signs of age.|Surprise
+0011/Surprise/0011_001625.wav|Her existence makes him pleasant.|Surprise
+0011/Surprise/0011_001557.wav|Blackbird, and Jay.|Surprise
+0011/Surprise/0011_001648.wav|In which piglet meets an elephant.|Surprise
+0011/Surprise/0011_001467.wav|I suppose no, it doesn't!|Surprise
+0011/Surprise/0011_001617.wav|You cruelty shall cost your life !|Surprise
+0011/Surprise/0011_001707.wav|I owe them five hundred dollars.|Surprise
+0011/Surprise/0011_001612.wav|No thank you.|Surprise
+0011/Surprise/0011_001650.wav|Her kind and firm glance.|Surprise
+0011/Surprise/0011_001541.wav|Can I lodge here tonight?|Surprise
+0011/Surprise/0011_001508.wav|The squire himself showed perfect.|Surprise
+0011/Surprise/0011_001740.wav|So Tom saw night as it were broad daylight.|Surprise
+0011/Surprise/0011_001513.wav|Mister lawson saw george last night.|Surprise
+0011/Surprise/0011_001639.wav|This is the way that snakes always talk.|Surprise
+0011/Surprise/0011_001748.wav|Dear customer,welcome to our ship.|Surprise
+0011/Surprise/0011_001561.wav|That's a full grown colt.|Surprise
+0011/Surprise/0011_001454.wav|Are you a regular darkey really?|Surprise
+0011/Surprise/0011_001501.wav|It's me piglit, help help!|Surprise
+0011/Surprise/0011_001474.wav|Come on my jack in the boxes!|Surprise
+0011/Surprise/0011_001516.wav|No, I burst the balloon!|Surprise
+0011/Surprise/0011_001737.wav|But mom I'm not certain about.|Surprise
+0011/Surprise/0011_001459.wav|Zero four three a silver shilling is journey.|Surprise
+0011/Surprise/0011_001708.wav|Perhaps you think is a queer title for this chapter.|Surprise
+0011/Surprise/0011_001745.wav|A whirring noise was heard.|Surprise
+0011/Surprise/0011_001693.wav|He is old fashioned but he is the best of men.|Surprise
+0011/Surprise/0011_001506.wav|I guess it's a choice feast.|Surprise
+0011/Surprise/0011_001694.wav|Now I understand.|Surprise
+0011/Surprise/0011_001700.wav|Six was half way down the room.|Surprise
+0011/Surprise/0011_001618.wav|I'll send for Tom to my boudoir.|Surprise
+0011/Surprise/0011_001473.wav|how suspicious this fox.|Surprise
+0011/Surprise/0011_001670.wav|Chew leaves quickly, said rabbit.|Surprise
+0011/Surprise/0011_001636.wav|How rash you !|Surprise
+0011/Surprise/0011_001490.wav|And they did push so!|Surprise
+0011/Surprise/0011_001657.wav|I would scoff at these followers.|Surprise
+0011/Surprise/0011_001611.wav|From each cake, there sprang a huge dog.|Surprise
+0011/Surprise/0011_001544.wav|We all see panda on TV or in the zoo.|Surprise
+0011/Surprise/0011_001562.wav|I lent george three pounds.|Surprise
+0011/Surprise/0011_001512.wav|Clown, to call him joey.|Surprise
+0011/Surprise/0011_001654.wav|She laughed.|Surprise
+0011/Surprise/0011_001750.wav|Do you have anything in mind?|Surprise
+0011/Surprise/0011_001543.wav|Pussy can sit by the fire and sing.|Surprise
+0011/Surprise/0011_001595.wav|A boat put out on the bay.|Surprise
+0011/Surprise/0011_001623.wav|Pick, pick, pick!|Surprise
+0011/Surprise/0011_001466.wav|Shall we let barbara in?|Surprise
+0011/Surprise/0011_001722.wav|A special pot too.|Surprise
+0011/Surprise/0011_001624.wav|Do you know the lid opens?|Surprise
+0011/Surprise/0011_001614.wav|But what about this thing, sticky!|Surprise
+0011/Surprise/0011_001589.wav|When such wanderers meet.|Surprise
+0011/Surprise/0011_001547.wav|And there you'll find a snap dragon fly.|Surprise
+0011/Surprise/0011_001709.wav|He owed mister Lawson, I can't tell you how.|Surprise
+0011/Surprise/0011_001518.wav|Look out! said Alice.|Surprise
+0011/Surprise/0011_001655.wav|This was the twenty fifth of november, seventeen eighty three.|Surprise
+0011/Surprise/0011_001529.wav|A large flat ferry boat was moored beside it.|Surprise
+0011/Surprise/0011_001706.wav|Please invite Tom if there is not requires.|Surprise
+0011/Surprise/0011_001684.wav|Chapter eighteen, the return journey.|Surprise
+0011/Surprise/0011_001485.wav|Suppose I take grandmother a fresh vegetable.|Surprise
+0011/Surprise/0011_001468.wav|I do not eat bread.|Surprise
+0011/Surprise/0011_001479.wav|All my gum tips gone as well.|Surprise
+0011/Surprise/0011_001675.wav|You shouldn't have pricked him with your horn.|Surprise
+0011/Surprise/0011_001640.wav|Both side were softly curved.|Surprise
+0011/Surprise/0011_001495.wav|Aha what have i we here?|Surprise
+0011/Surprise/0011_001688.wav|She has felt shy of it.|Surprise
+0011/Surprise/0011_001592.wav|I have had to grow old.|Surprise
+0011/Surprise/0011_001489.wav|Let go of my top knot.|Surprise
+0011/Surprise/0011_001550.wav|I hope you have enjoyed yourself?|Surprise
+0011/Surprise/0011_001462.wav|Tom, went on eeyore gloomily.|Surprise
+0011/Surprise/0011_001626.wav|And the next day. Nurse will be released.|Surprise
+0011/Surprise/0011_001717.wav|At length they came to a sharp bend.|Surprise
+0011/Surprise/0011_001538.wav|But one requires the explorer to furnish proofs.|Surprise
+0011/Surprise/0011_001681.wav|He could not help doing so.|Surprise
+0011/Surprise/0011_001712.wav|Father has yellow eyes.|Surprise
+0011/Surprise/0011_001726.wav|They are made of wood.|Surprise
+0011/Surprise/0011_001731.wav|She'll be feverish after so much thinking.|Surprise
+0011/Surprise/0011_001452.wav|From August eighteenth, of their divorce.|Surprise
+0011/Surprise/0011_001596.wav|Clear are your eyes and bright your breath!|Surprise
+0011/Surprise/0011_001697.wav|How Tom and Jerry went to visit mister Sam.|Surprise
+0011/Surprise/0011_001671.wav|I say I will be emperor.|Surprise
+0011/Surprise/0011_001695.wav|I know how to obey orders.|Surprise
+0011/Surprise/0011_001679.wav|These words behind the ears is nonsense.|Surprise
+0011/Surprise/0011_001472.wav|How are you, dear child?|Surprise
+0011/Surprise/0011_001642.wav|Give me your hand or I will cry harder than before.|Surprise
+0011/Surprise/0011_001615.wav|He likes dragons very much.|Surprise
+0011/Surprise/0011_001566.wav|They ate beef at the butcher shop.|Surprise
+0011/Surprise/0011_001524.wav|You know, answers to the name of Tom's son.|Surprise
+0011/Surprise/0011_001555.wav|This speech roused dame ilse to anger.|Surprise
+0011/Surprise/0011_001608.wav|However, somebody killed something.|Surprise
+0011/Surprise/0011_001610.wav|It weighs seven point five kilogram.|Surprise
+0011/Surprise/0011_001582.wav|Age forty five if a day a lie.|Surprise
+0011/Surprise/0011_001687.wav|A voice said: Come in.|Surprise
+0011/Surprise/0011_001542.wav|Wake now my merry tads!|Surprise
+0011/Surprise/0011_001647.wav|She and i are running a neck and neck race.|Surprise
+0011/Surprise/0011_001577.wav|Tom fell with a cloven head.|Surprise
+0011/Surprise/0011_001523.wav|I am from towel land.|Surprise
+0011/Surprise/0011_001530.wav|And would spoil my joke.|Surprise
+0011/Surprise/0011_001480.wav|Then there was a report.|Surprise
+0011/Surprise/0011_001604.wav|The song is really louding on a gate.|Surprise
+0011/Surprise/0011_001638.wav|Today isn't any other day.|Surprise
+0011/Surprise/0011_001724.wav|And she caught at the brooch.|Surprise
+0011/Surprise/0011_001517.wav|They were children of mine.|Surprise
+0011/Surprise/0011_001629.wav|The first year they sowed rye.|Surprise
+0011/Surprise/0011_001698.wav|She came back to the valley.|Surprise
+0011/Surprise/0011_001573.wav|He searched through the box.|Surprise
+0011/Surprise/0011_001716.wav|A thief in the night.|Surprise
+0011/Surprise/0011_001591.wav|I make her quite nervy at times.|Surprise
+0011/Surprise/0011_001627.wav|Born once every one hundred years, dies in flames!|Surprise
+0011/Surprise/0011_001588.wav|Now quicker the fiddle went.|Surprise
+0011/Surprise/0011_001560.wav|Kitty, can you play chess?|Surprise
+0011/Surprise/0011_001743.wav|And what does it mean?|Surprise
+0011/Surprise/0011_001699.wav|His hope will cheat him.|Surprise
+0011/Surprise/0011_001728.wav|It would be a hard choice.|Surprise
+0011/Surprise/0011_001701.wav|I'm sure your friends can wait!|Surprise
+0011/Surprise/0011_001631.wav|He told me that I ought to change.|Surprise
+0011/Surprise/0011_001470.wav|Tom now let our arrows fly!|Surprise
+0011/Surprise/0011_001665.wav|I've just shot a stag.|Surprise
+0011/Surprise/0011_001656.wav|I must have two to fetch and carry.|Surprise
+0011/Surprise/0011_001721.wav|Called out the cloud.|Surprise
+0011/Surprise/0011_001644.wav|Off for the prison ship.|Surprise
+0011/Surprise/0011_001571.wav|I say neither yea nor nay.|Surprise
+0011/Surprise/0011_001676.wav|Can your name be more hilarious?|Surprise
+0011/Surprise/0011_001487.wav|A hippo lives in the zoo.|Surprise
+0011/Surprise/0011_001546.wav|He said to Jack, the chatterer.|Surprise
+0011/Surprise/0011_001570.wav|But if you hadn't done them.|Surprise
+0011/Surprise/0011_001598.wav|I'd shoot myself. a pause.|Surprise
+0011/Surprise/0011_001711.wav|I am safe back again.|Surprise
+0011/Surprise/0011_001692.wav|She has a high voice.|Surprise
+0011/Surprise/0011_001630.wav|Your own wife is not at home.|Surprise
+0011/Surprise/0011_001660.wav|As soon as she went in, there was disorder.|Surprise
+0011/Surprise/0011_001609.wav|A raging fire was in his eyes.|Surprise
+0011/Surprise/0011_001637.wav|What would they do at the end of the year?|Surprise
+0011/Surprise/0011_001559.wav|Such tunes are joy to a dancing fay.|Surprise
+0011/Surprise/0011_001680.wav|Your path now goes south.|Surprise
+0011/Surprise/0011_001499.wav|I've hit the wrong nose.|Surprise
+0011/Surprise/0011_001521.wav|Finn and the fairy shoemaker.|Surprise
+0011/Surprise/0011_001569.wav|Sam waved his arm vaguely.|Surprise
+0011/Surprise/0011_001584.wav|We have been fine, haven't we?|Surprise
+0011/Surprise/0011_001599.wav|Captain Tom receives an angry letter.|Surprise
+0011/Surprise/0011_001464.wav|And we are so thirsty!|Surprise
+0011/Surprise/0011_001461.wav|Midyear is day, shire year.|Surprise
+0011/Surprise/0011_001574.wav|I pay half a crown a week extra.|Surprise
+0011/Surprise/0011_001481.wav|And I never had a whooping cough why.|Surprise
+0011/Surprise/0011_001702.wav|Five hundred and one million right?|Surprise
+0011/Surprise/0011_001738.wav|Paul's teeth ached because of lemon.|Surprise
+0011/Surprise/0011_001519.wav|The owl flew into a bush.|Surprise
+0011/Surprise/0011_001486.wav|A tick a tack too.|Surprise
+0011/Surprise/0011_001602.wav|that sounds good.|Surprise
+0011/Surprise/0011_001509.wav|If they mother knew it.|Surprise
+0011/Surprise/0011_001587.wav|An hour out of Guildford town.|Surprise
+0011/Surprise/0011_001732.wav|where are you going?|Surprise
+0011/Surprise/0011_001677.wav|The end part is fish mouth.|Surprise
+0011/Surprise/0011_001580.wav|Toast from the bread fruit tree.|Surprise
+0011/Surprise/0011_001645.wav|Do you think it's a woozle?|Surprise
+0011/Surprise/0011_001527.wav|Cos I know I had some honey.|Surprise
+0011/Surprise/0011_001503.wav|The elephant and the carpenter is the longest.|Surprise
+0011/Surprise/0011_001564.wav|His large mouth curled into a sneer.|Surprise
+0011/Surprise/0011_001581.wav|First, issue a reward.|Surprise
+0011/Surprise/0011_001534.wav|Rare rabbit had a little apron.|Surprise
+0011/Surprise/0011_001504.wav|Here am i whom you seek.|Surprise
+0011/Surprise/0011_001483.wav|Be off now as quick you may!|Surprise
+0011/Surprise/0011_001505.wav|He was killed by an arrow.|Surprise
+0011/Surprise/0011_001718.wav|The name of the song is called haddocks.|Surprise
+0011/Surprise/0011_001735.wav|But things haven't change yet.|Surprise
+0011/Surprise/0011_001549.wav|My winding sheet!|Surprise
+0011/Surprise/0011_001528.wav|Put that rude grasshopper in jail!|Surprise
+0011/Surprise/0011_001526.wav|this turn goes to the hill.|Surprise
+0011/Surprise/0011_001586.wav|She jump at the tail and bite it savagely.|Surprise
+0011/Surprise/0011_001572.wav|I shall say good bye.|Surprise
+0011/Surprise/0011_001478.wav|The art quite safe with me.|Surprise
+0011/Surprise/0011_001643.wav|And has you slain him?|Surprise
+0011/Surprise/0011_001469.wav|Not much use is it, sam?|Surprise
+0011/Surprise/0011_001736.wav|Over them swooped the eagles.|Surprise
+0011/Surprise/0011_001715.wav|It's to say how do you do with Tom's answer.|Surprise
+0011/Surprise/0011_001565.wav|They were going fast, with a light clip.|Surprise
+0011/Surprise/0011_001685.wav|The straw, charcoal and the pea.|Surprise
+0011/Surprise/0011_001493.wav|To buy two pork chops.|Surprise
+0011/Surprise/0011_001578.wav|And vowed he'd change the pigtail's place.|Surprise
+0011/Surprise/0011_001601.wav|A lady, is on Alice's lap!|Surprise
+0011/Surprise/0011_001551.wav|All the way to China is home.|Surprise
+0011/Surprise/0011_001552.wav|Guilty for what do you rule?|Surprise
+0011/Surprise/0011_001531.wav|It must come sometimes to jam a day.|Surprise
+0011/Surprise/0011_001491.wav|We expected Tom would jump for joy.|Surprise
+0011/Surprise/0011_001734.wav|Another one, ten thousand dollars.|Surprise
+0011/Surprise/0011_001456.wav|Your midget wife can never sing a song.|Surprise
+0011/Surprise/0011_001622.wav|Ask god to help you.|Surprise
+0011/Surprise/0011_001619.wav|But the tune isn't his own invention.|Surprise
+0011/Surprise/0011_001482.wav|Her fair jaw cracker dwarf language must be!|Surprise
+0011/Surprise/0011_001613.wav|Let it give us a chance, my precious.|Surprise
+0011/Surprise/0011_001554.wav|He dreamt them all night.|Surprise
+0011/Surprise/0011_001664.wav|Slam the doors and wedge them!|Surprise
+0011/Surprise/0011_001620.wav|Her paw went into your eye?|Surprise
+0011/Surprise/0011_001669.wav|But show me now your map!|Surprise
+0011/Surprise/0011_001575.wav|All this we have won by our labour.|Surprise
+0011/Surprise/0011_001458.wav|The octopus has eight legs.|Surprise
+0011/Surprise/0011_001635.wav|If not, I shall go no further.|Surprise
+0011/Surprise/0011_001492.wav|Does the one that wins get the crowned?|Surprise
+0011/Surprise/0011_001696.wav|You woke me up!|Surprise
+0011/Surprise/0011_001583.wav|Fresh pain seized Paul's body.|Surprise
+0011/Surprise/0011_001514.wav|A half pounds of flour and two ounces suet.|Surprise
+0011/Surprise/0011_001710.wav|Why it is just like the round egg which sounds thin.|Surprise
+0011/Surprise/0011_001525.wav|To catch that bulrush root with my paw!|Surprise
+0011/Surprise/0011_001719.wav|How could I dig burrows with short toe nails?|Surprise
+0011/Surprise/0011_001576.wav|She just smiled calmly, mother knows that the best smile.|Surprise
+0011/Surprise/0011_001507.wav|Tom and Michael woke up next morning.|Surprise
+0011/Surprise/0011_001646.wav|We can not do it sir.|Surprise
+0011/Surprise/0011_001666.wav|We may join with that power.|Surprise
+0011/Surprise/0011_001563.wav|How they went to the mountains to eat nuts.|Surprise
+0011/Surprise/0011_001673.wav|I'd just as soon swim your way as others do.|Surprise
+0011/Surprise/0011_001463.wav|Asteroid three hundred and twenty five.|Surprise
+0011/Surprise/0011_001533.wav|I smell the breath of an English.|Surprise
+0011/Surprise/0011_001714.wav|Bob goes to a new school.|Surprise
+0011/Surprise/0011_001453.wav|He was still in the forest!|Surprise
+0011/Surprise/0011_001742.wav|Why should I purchase my own?|Surprise
+0011/Surprise/0011_001683.wav|They had been named Tom and Jerry.|Surprise
+0011/Surprise/0011_001652.wav|I am run off my feet.|Surprise
+0011/Surprise/0011_001539.wav|Cuckoos is downheaded and cry.|Surprise
+0011/Surprise/0011_001686.wav|One two three, where is your breakfast.|Surprise
+0011/Surprise/0011_001522.wav|Am I an absolute pauper?|Surprise
+0011/Surprise/0011_001651.wav|The ladybug told them proudly.|Surprise
+0011/Surprise/0011_001484.wav|By hook or by crook.|Surprise
+0011/Surprise/0011_001606.wav|Still you owe it a duty.|Surprise
+0011/Surprise/0011_001585.wav|The new born baby is stolen as we go.|Surprise
+0011/Surprise/0011_001494.wav|They found a cow grazing in a field.|Surprise
+0011/Surprise/0011_001682.wav|Alice I won't forget it again.|Surprise
+0011/Surprise/0011_001641.wav|We have showed his shark tooth.|Surprise
+0011/Surprise/0011_001727.wav|It's part of my secret.|Surprise
+0011/Surprise/0011_001658.wav|Mum shuts one's mouth up, doesn't it.|Surprise
+0011/Surprise/0011_001567.wav|I toy with my liqueur.|Surprise
+0011/Surprise/0011_001632.wav|Will call her Lili, for short.|Surprise
+0011/Surprise/0011_001535.wav|I blinked my eyes hard.|Surprise
+0011/Surprise/0011_001691.wav|The end of february fourteenth.|Surprise
+0011/Surprise/0011_001465.wav|Tom could hardly speak for laughing.|Surprise
+0011/Surprise/0011_001616.wav|it isn't picked at all.|Surprise
+0011/Surprise/0011_001667.wav|Chapter eleven on the doorstep.|Surprise
+0011/Surprise/0011_001713.wav|Give me a fine fat goose.|Surprise
+0011/Surprise/0011_001690.wav|There goes the shawl again!|Surprise
+0011/Surprise/0011_001747.wav|What are you waiting for? man.|Surprise
+0011/Surprise/0011_001633.wav|who i should i care though David's lips were twitching?|Surprise
+0011/Surprise/0011_001661.wav|After a while he perceived both giants.|Surprise
+0011/Surprise/0011_001605.wav|Fear neither root nor sprout!|Surprise
+0011/Surprise/0011_001502.wav|This is Jack, the relatives of Tom.|Surprise
+0011/Surprise/0011_001520.wav|Our King George is labourers.|Surprise
+0011/Surprise/0011_001653.wav|I have a soothsayer.|Surprise
+0011/Surprise/0011_001455.wav|A deafening chirruping rent the air.|Surprise
+0011/Surprise/0011_001649.wav|You may imagine how I gape.|Surprise
+0011/Surprise/0011_001672.wav|No admittance except on party business.|Surprise
+0011/Surprise/0011_001720.wav|Goat Billy asked the old chinese guy.|Surprise
+0011/Surprise/0011_001475.wav|I'd far go without them than eat them!|Surprise
+0011/Surprise/0011_001537.wav|Let the glass globe be.|Surprise
+0011/Surprise/0011_001662.wav|I believe you are one of them!|Surprise
+0011/Surprise/0011_001476.wav|The hag looked in the stove.|Surprise
+0011/Surprise/0011_001689.wav|No, said piggy carelessly.|Surprise
+0011/Surprise/0011_001746.wav|I am going to go back home.|Surprise
+0011/Surprise/0011_001488.wav|In my opinion that-is a good idea!|Surprise
+0011/Surprise/0011_001556.wav|The eye could not catch them.|Surprise
+0011/Surprise/0011_001460.wav|That I am a born nurse.|Surprise
+0011/Surprise/0011_001741.wav|Enough,you a foolish chatter.|Surprise
+0011/Surprise/0011_001729.wav|And his heart wagged with joy like a lamb's tail.|Surprise
+0011/Surprise/0011_001744.wav|Lucy, a clever farmer.|Surprise
+0011/Surprise/0011_001498.wav|Said the witch.|Surprise
+0011/Surprise/0011_001703.wav|I am loath to see him go.|Surprise
+0011/Surprise/0011_001497.wav|Confess that you opened the thirteenth door.|Surprise
+0011/Surprise/0011_001603.wav|I was not grabbed.|Surprise
+0011/Surprise/0011_001621.wav|I am a selfish sinner.|Surprise
+0011/Surprise/0011_001477.wav|But I saw you walking.|Surprise
+0011/Surprise/0011_001510.wav|Act drop second act scene.|Surprise
+0011/Surprise/0011_001500.wav|Well anyway it didn't rain, he said.|Surprise
+0011/Surprise/0011_001634.wav|Hurry up, hurry up!|Surprise
+0011/Surprise/0011_001548.wav|And on the top of them, came Winnie, the cute bear.|Surprise
+0011/Surprise/0011_001594.wav|Yes, I miss her.|Surprise
+0011/Surprise/0011_001739.wav|And be with you,Tom!|Surprise
+0011/Surprise/0011_001674.wav|Because he was a man with infinite resource and sagacity.|Surprise
+0011/Surprise/0011_001457.wav|Hannibal came to see you.|Surprise
+0011/Surprise/0011_001705.wav|The fisherman and his wife see George every day.|Surprise
+0011/Surprise/0011_001558.wav|it looks much better.|Surprise
+0011/Surprise/0011_001597.wav|Fur flew through the air, teeth gnashed.|Surprise
+0011/Surprise/0011_001471.wav|She was born on april nineteen forty three.|Surprise
+0011/Surprise/0011_001451.wav|Said the American to Chinese.|Surprise
+0011/Surprise/0011_001663.wav|She said in subdued voice.|Surprise
+0011/Surprise/0011_001579.wav|Daisy creams with pink edges.|Surprise
+0011/Surprise/0011_001725.wav|She has no place for hot peper .|Surprise
+0011/Surprise/0011_001496.wav|I don't paint a tiger.|Surprise
+0011/Surprise/0011_001593.wav|Please hire me after you.|Surprise
+0011/Happy/0011_000840.wav|What an impetuous boy he is!|Happy
+0011/Happy/0011_000776.wav|The hag looked in the stove.|Happy
+0011/Happy/0011_001034.wav|Another one, ten thousand dollars.|Happy
+0011/Happy/0011_000885.wav|The new born baby is stolen as we go.|Happy
+0011/Happy/0011_000935.wav|If not, I shall go no further.|Happy
+0011/Happy/0011_001029.wav|And his heart wagged with joy like a lamb's tail.|Happy
+0011/Happy/0011_000875.wav|All this have we won by our labour.|Happy
+0011/Happy/0011_000942.wav|Give me your hand or I will cry harder than before.|Happy
+0011/Happy/0011_000972.wav|No admittance except on party business.|Happy
+0011/Happy/0011_000895.wav|A boat put out-on the bay.|Happy
+0011/Happy/0011_000990.wav|There goes the shawl again!|Happy
+0011/Happy/0011_000926.wav|And the next day. Nurse will be released.|Happy
+0011/Happy/0011_001042.wav|Why should I purchase my own?|Happy
+0011/Happy/0011_000836.wav|She has eaten the tapioca all of it.|Happy
+0011/Happy/0011_000868.wav|I said you looked like an egg, sir.|Happy
+0011/Happy/0011_000978.wav|I know you .|Happy
+0011/Happy/0011_000973.wav|I'd just as soon swim your way as others do.|Happy
+0011/Happy/0011_000866.wav|They ate beef at the butcher shop.|Happy
+0011/Happy/0011_000808.wav|The squire himself showed perfect.|Happy
+0011/Happy/0011_000798.wav|Said the witch.|Happy
+0011/Happy/0011_000783.wav|Be off now as quick as you may!|Happy
+0011/Happy/0011_000864.wav|His large mouth curled into a sneer.|Happy
+0011/Happy/0011_000843.wav|Pussy can sit by the fire and sing.|Happy
+0011/Happy/0011_000760.wav|That I am a born nurse.|Happy
+0011/Happy/0011_000925.wav|Her existence makes him pleasant.|Happy
+0011/Happy/0011_000962.wav|I believe you are one of them!|Happy
+0011/Happy/0011_000957.wav|I would scoff at these followers.|Happy
+0011/Happy/0011_000781.wav|And I never had a whooping cough why.|Happy
+0011/Happy/0011_000909.wav|A raging fire was in his eyes.|Happy
+0011/Happy/0011_000920.wav|Her paw went into your eye?|Happy
+0011/Happy/0011_000946.wav|We can not do it sir.|Happy
+0011/Happy/0011_000842.wav|Wake now my merry tads!|Happy
+0011/Happy/0011_000778.wav|The art quite safe with me.|Happy
+0011/Happy/0011_000881.wav|First, issue a reward.|Happy
+0011/Happy/0011_000941.wav|We have showed his shark tooth.|Happy
+0011/Happy/0011_000818.wav|Look out! said Alice.|Happy
+0011/Happy/0011_000855.wav|This speech roused dame ilse to anger.|Happy
+0011/Happy/0011_000992.wav|She has a high voice.|Happy
+0011/Happy/0011_000915.wav|He likes dragons very much.|Happy
+0011/Happy/0011_001011.wav|I am safe back again.|Happy
+0011/Happy/0011_001037.wav|But mom I'm not certain about.|Happy
+0011/Happy/0011_000921.wav|I am a selfish sinner.|Happy
+0011/Happy/0011_000968.wav|He showed no signs of age.|Happy
+0011/Happy/0011_000861.wav|That's a full grown colt.|Happy
+0011/Happy/0011_000785.wav|Suppose I take grandmother a fresh vegetable.|Happy
+0011/Happy/0011_000834.wav|Rare rabbit had a little apron.|Happy
+0011/Happy/0011_000943.wav|And has you slain him?|Happy
+0011/Happy/0011_000916.wav|it isn't picked at all.|Happy
+0011/Happy/0011_001013.wav|Give me a fine fat goose.|Happy
+0011/Happy/0011_000854.wav|He dreamt them all night.|Happy
+0011/Happy/0011_000784.wav|By hook or by crook.|Happy
+0011/Happy/0011_000947.wav|She and i are running a neck and neck race.|Happy
+0011/Happy/0011_000777.wav|But I saw you walking.|Happy
+0011/Happy/0011_000903.wav|I was not grabbed.|Happy
+0011/Happy/0011_001033.wav|You gain for nothing girl!|Happy
+0011/Happy/0011_000814.wav|A half pounds of flour and two ounces suet.|Happy
+0011/Happy/0011_001020.wav|Goat Billy asked the old chinese guy.|Happy
+0011/Happy/0011_000858.wav|it looks much better.|Happy
+0011/Happy/0011_000789.wav|Let go of my top knot.|Happy
+0011/Happy/0011_000985.wav|The straw, charcoal and the pea.|Happy
+0011/Happy/0011_001044.wav|Lucy, a clever farmer.|Happy
+0011/Happy/0011_000891.wav|I make her quite nervy at times.|Happy
+0011/Happy/0011_000816.wav|No, I burst the balloon!|Happy
+0011/Happy/0011_000754.wav|Are you a regular darkey really?|Happy
+0011/Happy/0011_000883.wav|Fresh pain seized Paul's body.|Happy
+0011/Happy/0011_001015.wav|It's how to say hi do you with Tom's answer.|Happy
+0011/Happy/0011_000984.wav|Chapter eighteen, the return journey.|Happy
+0011/Happy/0011_000831.wav|It must come sometimes to jam a day.|Happy
+0011/Happy/0011_001021.wav|Called out the cloud.|Happy
+0011/Happy/0011_000936.wav|How rash you!|Happy
+0011/Happy/0011_000846.wav|He said to Jack, the chatterer.|Happy
+0011/Happy/0011_000884.wav|We have been fine, haven't we?|Happy
+0011/Happy/0011_001041.wav|Enough,you a foolish chatter.|Happy
+0011/Happy/0011_000863.wav|How they went to the mountains to eat nuts.|Happy
+0011/Happy/0011_000996.wav|You woke me up!|Happy
+0011/Happy/0011_000937.wav|What would they do the end of the year?|Happy
+0011/Happy/0011_001031.wav|She'll be feverish after so much thinking.|Happy
+0011/Happy/0011_000979.wav|These words behind the ears is nonsense.|Happy
+0011/Happy/0011_000922.wav|Ask god to help you.|Happy
+0011/Happy/0011_000869.wav|Sam waved his arm vaguely.|Happy
+0011/Happy/0011_000908.wav|However, somebody killed something.|Happy
+0011/Happy/0011_001018.wav|The name of the song is called haddocks.|Happy
+0011/Happy/0011_001016.wav|A thief in the night.|Happy
+0011/Happy/0011_000800.wav|Well anyhow it didn't rain, he said.|Happy
+0011/Happy/0011_000970.wav|Chew leaves quickly, said rabbit.|Happy
+0011/Happy/0011_000876.wav|She just smiled calmly, mother knows that is the best smile.|Happy
+0011/Happy/0011_000934.wav|Hurry up, hurry up!|Happy
+0011/Happy/0011_000802.wav|This is Jack, the relatives of Tom.|Happy
+0011/Happy/0011_000759.wav|Zero four three a silver shilling is journey.|Happy
+0011/Happy/0011_000870.wav|But if you hadn't done them.|Happy
+0011/Happy/0011_000770.wav|Tom now let our arrows fly!|Happy
+0011/Happy/0011_001038.wav|Paul's teeth ached because of lemon.|Happy
+0011/Happy/0011_000912.wav|No thank you.|Happy
+0011/Happy/0011_001005.wav|The fisherman and his wife see George every day.|Happy
+0011/Happy/0011_001043.wav|And what does it mean?|Happy
+0011/Happy/0011_000791.wav|We expected Tom would jump for joy.|Happy
+0011/Happy/0011_001047.wav|What are you waiting for? man.|Happy
+0011/Happy/0011_000886.wav|She jump at the tail and bite it savagely.|Happy
+0011/Happy/0011_000795.wav|Aha what we have here?|Happy
+0011/Happy/0011_000994.wav|Now I understand.|Happy
+0011/Happy/0011_000997.wav|How Tom and Jerry went to visit mister Sam.|Happy
+0011/Happy/0011_001010.wav|Why it is just like the round egg which sounds thin.|Happy
+0011/Happy/0011_000765.wav|Tom could hardly speak for laughing.|Happy
+0011/Happy/0011_000931.wav|He told me that I ought to change.|Happy
+0011/Happy/0011_000758.wav|The octopus has eight legs.|Happy
+0011/Happy/0011_001039.wav|And be with you,Tom!|Happy
+0011/Happy/0011_000832.wav|I thank you for this mercy!|Happy
+0011/Happy/0011_000928.wav|It says no way! shouted Daisy.|Happy
+0011/Happy/0011_000929.wav|The first year they sowed rye.|Happy
+0011/Happy/0011_000944.wav|Off for the prison ship.|Happy
+0011/Happy/0011_000882.wav|Age forty five if a day a lie.|Happy
+0011/Happy/0011_000767.wav|I suppose no, it doesn't!|Happy
+0011/Happy/0011_000797.wav|Confess that you opened the thirteenth door.|Happy
+0011/Happy/0011_000799.wav|I've hit the wrong nose.|Happy
+0011/Happy/0011_000950.wav|Her kind and firm glance.|Happy
+0011/Happy/0011_001049.wav|What do you think of this question?|Happy
+0011/Happy/0011_000967.wav|Chapter eleven on the doorstep.|Happy
+0011/Happy/0011_000982.wav|Alice I won't forget it again.|Happy
+0011/Happy/0011_000907.wav|What am I, I'm a racer, son of god.|Happy
+0011/Happy/0011_001028.wav|It would be a hard choice.|Happy
+0011/Happy/0011_000964.wav|Slam the doors and wedge them!|Happy
+0011/Happy/0011_000965.wav|I've just shot a stag.|Happy
+0011/Happy/0011_000850.wav|I hope you enjoyed yourself?|Happy
+0011/Happy/0011_000805.wav|He was killed by an arrow.|Happy
+0011/Happy/0011_000768.wav|I do not eat bread.|Happy
+0011/Happy/0011_000763.wav|Asteroid three hundred and twenty five.|Happy
+0011/Happy/0011_000932.wav|Will call her Lili, be short.|Happy
+0011/Happy/0011_000977.wav|The end part is fish mouth.|Happy
+0011/Happy/0011_000983.wav|They had been named Tom and Jerry.|Happy
+0011/Happy/0011_001019.wav|How could I dig burrows with short toe nails?|Happy
+0011/Happy/0011_000890.wav|And they were sandy yellow brownish all over.|Happy
+0011/Happy/0011_000775.wav|I'd far rather go without them than eat them!|Happy
+0011/Happy/0011_000951.wav|The ladybug told them proudly.|Happy
+0011/Happy/0011_000981.wav|He could not help doing so.|Happy
+0011/Happy/0011_000995.wav|I know how to obey orders.|Happy
+0011/Happy/0011_000845.wav|Reed by the living pool!|Happy
+0011/Happy/0011_000851.wav|All the way to China is home.|Happy
+0011/Happy/0011_000769.wav|Not much use is it, sam?|Happy
+0011/Happy/0011_000793.wav|To buy two pork chops.|Happy
+0011/Happy/0011_000824.wav|You know, answers to the name of Tom's son.|Happy
+0011/Happy/0011_001000.wav|Six was half way down the room.|Happy
+0011/Happy/0011_000830.wav|And would spoil my joke.|Happy
+0011/Happy/0011_000975.wav|You shouldn't have pricked him with your horn.|Happy
+0011/Happy/0011_001009.wav|He owed mister Lawson, I can't tell you how.|Happy
+0011/Happy/0011_000771.wav|She was born on april nineteen forty three.|Happy
+0011/Happy/0011_000949.wav|You may imagine how I gape.|Happy
+0011/Happy/0011_001003.wav|I am loath to see him go.|Happy
+0011/Happy/0011_000857.wav|Blackbird, and Jay.|Happy
+0011/Happy/0011_001017.wav|At length they came to a sharp bend.|Happy
+0011/Happy/0011_000811.wav|We nightly dance our heyday guise.|Happy
+0011/Happy/0011_000752.wav|From August eighteenth, of their divorce.|Happy
+0011/Happy/0011_000897.wav|Fur flew through the air, teeth gnashed.|Happy
+0011/Happy/0011_000999.wav|His hope will cheat him.|Happy
+0011/Happy/0011_000889.wav|When such wanderers meet.|Happy
+0011/Happy/0011_001026.wav|They are made of wood.|Happy
+0011/Happy/0011_000958.wav|Mum shuts one's mouth up, doesn't it.|Happy
+0011/Happy/0011_001035.wav|But things haven't change yet.|Happy
+0011/Happy/0011_000892.wav|I have had to grow old.|Happy
+0011/Happy/0011_000825.wav|To catch that bulrush root with my paw!|Happy
+0011/Happy/0011_000821.wav|Finn and the fairy shoemaker.|Happy
+0011/Happy/0011_000773.wav|how suspicious this fox.|Happy
+0011/Happy/0011_000872.wav|I shall say good bye.|Happy
+0011/Happy/0011_000849.wav|My winding sheet!|Happy
+0011/Happy/0011_000828.wav|Put that rude grasshopper in jail!|Happy
+0011/Happy/0011_000980.wav|Your path now goes south.|Happy
+0011/Happy/0011_000896.wav|Clear are your eyes and bright your breath!|Happy
+0011/Happy/0011_000974.wav|Because he was a man with infinite resource and sagacity.|Happy
+0011/Happy/0011_000888.wav|Now quicker the fiddle went.|Happy
+0011/Happy/0011_000976.wav|Can your name be more hilarious?|Happy
+0011/Happy/0011_000856.wav|The eye could not catch them.|Happy
+0011/Happy/0011_001045.wav|A whirring noise was heard.|Happy
+0011/Happy/0011_000878.wav|And vowed he'd change the pigtail's place.|Happy
+0011/Happy/0011_000873.wav|He searched through the box.|Happy
+0011/Happy/0011_000792.wav|Does the one that wins get the crowned?|Happy
+0011/Happy/0011_000900.wav|That cloth does not look like worth much!|Happy
+0011/Happy/0011_000952.wav|I am run off my feet.|Happy
+0011/Happy/0011_000756.wav|Your midget wife never can sing a song.|Happy
+0011/Happy/0011_000904.wav|The song is really louding on a gate.|Happy
+0011/Happy/0011_001027.wav|It's part of my secret.|Happy
+0011/Happy/0011_001048.wav|Dear customer,welcome to our ship.|Happy
+0011/Happy/0011_000751.wav|Said the American to the Chinese.|Happy
+0011/Happy/0011_000761.wav|Midyear is day, shire year.|Happy
+0011/Happy/0011_000910.wav|It weighs seven point five kilogram.|Happy
+0011/Happy/0011_000786.wav|A tick a tack too.|Happy
+0011/Happy/0011_000918.wav|I'll send for Tom to my boudoir.|Happy
+0011/Happy/0011_000911.wav|From each cake, there sprang a huge dog.|Happy
+0011/Happy/0011_000838.wav|But one requires the explorer to furnish proofs.|Happy
+0011/Happy/0011_000905.wav|Fear neither root nor sprout!|Happy
+0011/Happy/0011_000898.wav|I'd shoot myself. a pause.|Happy
+0011/Happy/0011_000844.wav|We all see panda on TV or in the zoo.|Happy
+0011/Happy/0011_001036.wav|Over them swooped the eagles.|Happy
+0011/Happy/0011_000794.wav|They found a cow grazing in a field.|Happy
+0011/Happy/0011_000993.wav|He is old fashioned but he is the best men.|Happy
+0011/Happy/0011_000865.wav|They were going fast, with a light clip.|Happy
+0011/Happy/0011_000961.wav|After a while he perceived both giants.|Happy
+0011/Happy/0011_000930.wav|Your own wife is not at home.|Happy
+0011/Happy/0011_000801.wav|It's me piglit, help help!|Happy
+0011/Happy/0011_000835.wav|I blinked my eyes hard.|Happy
+0011/Happy/0011_000945.wav|Do you think it's a woozle?|Happy
+0011/Happy/0011_000969.wav|But show me now your map!|Happy
+0011/Happy/0011_000988.wav|She has felt shy of it.|Happy
+0011/Happy/0011_000848.wav|And on the top of them, came Winnie, the cute bear.|Happy
+0011/Happy/0011_000774.wav|Come on my jack in the boxes!|Happy
+0011/Happy/0011_000790.wav|And they did push so!|Happy
+0011/Happy/0011_000757.wav|Hannibal come see you.|Happy
+0011/Happy/0011_001025.wav|She has no place for hot peper .|Happy
+0011/Happy/0011_000966.wav|We may join with that power.|Happy
+0011/Happy/0011_000867.wav|I toy with my liqueur.|Happy
+0011/Happy/0011_000852.wav|Guilty for what do you rule?|Happy
+0011/Happy/0011_000913.wav|Let it give us a chance, my precious.|Happy
+0011/Happy/0011_000755.wav|A deafening chirruping rent the air.|Happy
+0011/Happy/0011_000871.wav|I say neither yea nor nay.|Happy
+0011/Happy/0011_000956.wav|I must have two to fetch and carry.|Happy
+0011/Happy/0011_000796.wav|I don't painted tiger.|Happy
+0011/Happy/0011_000788.wav|In my opinion that is a good idea!|Happy
+0011/Happy/0011_000902.wav|that sounds good.|Happy
+0011/Happy/0011_001024.wav|And she caught at the brooch.|Happy
+0011/Happy/0011_000901.wav|A lady, is on Alice's lap!|Happy
+0011/Happy/0011_000887.wav|An hour out of Guildford town.|Happy
+0011/Happy/0011_001004.wav|How do you like you dirty bird!|Happy
+0011/Happy/0011_000813.wav|Mister lawson saw george last night.|Happy
+0011/Happy/0011_000938.wav|Today isn't any other day.|Happy
+0011/Happy/0011_000822.wav|Am I an absolute pauper?|Happy
+0011/Happy/0011_000989.wav|No, said piggy carelessly.|Happy
+0011/Happy/0011_000812.wav|Clown, to call him joey.|Happy
+0011/Happy/0011_000837.wav|Let the glass globe be.|Happy
+0011/Happy/0011_000860.wav|Kitty, can you play chess?|Happy
+0011/Happy/0011_000899.wav|Captain Tom receives an angry letter.|Happy
+0011/Happy/0011_000782.wav|A fair jaw cracker dwarf language must be!|Happy
+0011/Happy/0011_000762.wav|Tom, went on eeyore gloomily.|Happy
+0011/Happy/0011_001007.wav|I owe them five hundred dollars.|Happy
+0011/Happy/0011_000807.wav|Tom and Michael woke up next morning.|Happy
+0011/Happy/0011_000991.wav|The end of february fourteenth.|Happy
+0011/Happy/0011_000959.wav|The song is called Ways and Means.|Happy
+0011/Happy/0011_000772.wav|How are you, dear child?|Happy
+0011/Happy/0011_000927.wav|Born once every one hundred years, dies in flames!|Happy
+0011/Happy/0011_000804.wav|Here i am whom you seek.|Happy
+0011/Happy/0011_000986.wav|One two three, where is your breakfast.|Happy
+0011/Happy/0011_000919.wav|But the tune isn't his own invention.|Happy
+0011/Happy/0011_000953.wav|I have a soothsayer.|Happy
+0011/Happy/0011_000853.wav|But we are not high yet.|Happy
+0011/Happy/0011_000879.wav|Daisy creams with pink edges.|Happy
+0011/Happy/0011_000827.wav|Cos I know I had some honey.|Happy
+0011/Happy/0011_000933.wav|Why should i care though David's lips were twitching?|Happy
+0011/Happy/0011_000847.wav|And there you'll find a snap dragon fly.|Happy
+0011/Happy/0011_000874.wav|I pay half a crown a week extra.|Happy
+0011/Happy/0011_000859.wav|Such tunes are joy to a dancing fay.|Happy
+0011/Happy/0011_000906.wav|Still you owe it a duty.|Happy
+0011/Happy/0011_000833.wav|I smell the breath of an English.|Happy
+0011/Happy/0011_001001.wav|I'm sure your friends can wait!|Happy
+0011/Happy/0011_000819.wav|The owl flew into a bush.|Happy
+0011/Happy/0011_000820.wav|Our King George is labourers.|Happy
+0011/Happy/0011_000766.wav|Shall we let barbara in?|Happy
+0011/Happy/0011_000917.wav|You cruelty shall cost your life !|Happy
+0011/Happy/0011_000914.wav|But what about this thing, sticky!|Happy
+0011/Happy/0011_000955.wav|This was the twenty fifth of november, seventeen eighty three.|Happy
+0011/Happy/0011_000954.wav|She laughed.|Happy
+0011/Happy/0011_000963.wav|She said in subdued voice.|Happy
+0011/Happy/0011_000960.wav|As soon she went in, there was disorder.|Happy
+0011/Happy/0011_000924.wav|Do you know the lid opens?|Happy
+0011/Happy/0011_001023.wav|Who I did wake up!|Happy
+0011/Happy/0011_000823.wav|I am from towel land.|Happy
+0011/Happy/0011_000998.wav|She came back to the valley.|Happy
+0011/Happy/0011_001046.wav|I am going to go back home.|Happy
+0011/Happy/0011_001012.wav|Father has yellow eyes.|Happy
+0011/Happy/0011_001014.wav|Bob goes to a new school.|Happy
+0011/Happy/0011_000987.wav|A voice said: Come in.|Happy
+0011/Happy/0011_000764.wav|And we are so thirsty!|Happy
+0011/Happy/0011_000817.wav|They were children of mine.|Happy
+0011/Happy/0011_000826.wav|this turn goes to the hill.|Happy
+0011/Happy/0011_001008.wav|Perhaps you think it is a queer title for this chapter.|Happy
+0011/Happy/0011_000829.wav|A large flat ferry boat was moored beside it.|Happy
+0011/Happy/0011_000880.wav|Toast from the bread fruit tree.|Happy
+0011/Happy/0011_000939.wav|This is the way that snakes always talk.|Happy
+0011/Happy/0011_000923.wav|Pick, pick, pick!|Happy
+0011/Happy/0011_000779.wav|All my gum tips gone as well.|Happy
+0011/Happy/0011_001030.wav|She keeps saying I'm hers.|Happy
+0011/Happy/0011_000753.wav|He was still in the forest!|Happy
+0011/Happy/0011_000841.wav|Can I lodge here tonight?|Happy
+0011/Happy/0011_000806.wav|I guess it's a choice feast.|Happy
+0011/Happy/0011_000862.wav|I lent george three pounds.|Happy
+0011/Happy/0011_001022.wav|A special pot too.|Happy
+0011/Happy/0011_000810.wav|Act drop second act scene.|Happy
+0011/Happy/0011_000780.wav|Then there was a report.|Happy
+0011/Happy/0011_000948.wav|In which piglet meets a elephant.|Happy
+0011/Happy/0011_000803.wav|The elephant and the carpenter is the longest.|Happy
+0011/Happy/0011_000815.wav|He might call it, for example.|Happy
+0011/Happy/0011_001050.wav|Do you have anything in mind?|Happy
+0011/Happy/0011_000894.wav|Yes, I miss her.|Happy
+0011/Happy/0011_000839.wav|Cuckoos is downheaded and cry.|Happy
+0011/Happy/0011_000809.wav|If they mother knew it.|Happy
+0011/Happy/0011_000877.wav|Tom fell with a cloven head.|Happy
+0011/Happy/0011_000940.wav|Both sides were softly curved.|Happy
+0011/Happy/0011_001032.wav|where are you going?|Happy
+0011/Happy/0011_000971.wav|I say I will be emperor.|Happy
+0011/Happy/0011_001040.wav|So Tom saw night as it were broad daylight.|Happy
+0011/Happy/0011_001006.wav|Please invite Tom if there is not requires.|Happy
+0011/Happy/0011_000893.wav|Please hire me after you.|Happy
+0011/Happy/0011_000787.wav|A hippo lives in the zoo.|Happy
+0011/Happy/0011_001002.wav|Five hundred and one million right?|Happy
+0011/Angry/0011_000424.wav|Come on my jack in the boxes!|Angry
+0011/Angry/0011_000413.wav|Asteroid three hundred and twenty five.|Angry
+0011/Angry/0011_000414.wav|And we are so thirsty!|Angry
+0011/Angry/0011_000508.wav|it looks much better.|Angry
+0011/Angry/0011_000540.wav|And they were sandy yellow brownish all over.|Angry
+0011/Angry/0011_000654.wav|How do you like you dirty bird!|Angry
+0011/Angry/0011_000541.wav|I make her quite nervous at times.|Angry
+0011/Angry/0011_000531.wav|First, issue a reward.|Angry
+0011/Angry/0011_000449.wav|I've hit the wrong nose.|Angry
+0011/Angry/0011_000466.wav|No, I burst the balloon!|Angry
+0011/Angry/0011_000700.wav|Do you have anything in mind?|Angry
+0011/Angry/0011_000655.wav|The fisherman and his wife see George every day.|Angry
+0011/Angry/0011_000665.wav|It's hard to say how you do with Tom's answer.|Angry
+0011/Angry/0011_000488.wav|But one requires the explorer to furnish proofs.|Angry
+0011/Angry/0011_000547.wav|Fur flew through the air, teeth gnashed.|Angry
+0011/Angry/0011_000698.wav|Dear customer,welcome to our ship.|Angry
+0011/Angry/0011_000422.wav|How are you, dear child?|Angry
+0011/Angry/0011_000593.wav|And has you slain him?|Angry
+0011/Angry/0011_000542.wav|I have had to grow old.|Angry
+0011/Angry/0011_000601.wav|The ladybug told them proudly.|Angry
+0011/Angry/0011_000438.wav|In my opinion that is a good idea!|Angry
+0011/Angry/0011_000686.wav|Over them swooped the eagles.|Angry
+0011/Angry/0011_000677.wav|It's part of my secret.|Angry
+0011/Angry/0011_000629.wav|These words behind the ears is nonsense.|Angry
+0011/Angry/0011_000581.wav|He told me that I ought to change.|Angry
+0011/Angry/0011_000479.wav|A large flat ferry boat was moored beside-it.|Angry
+0011/Angry/0011_000416.wav|Shall we let barbara in?|Angry
+0011/Angry/0011_000589.wav|This is the way that snakes always talk.|Angry
+0011/Angry/0011_000668.wav|The name of the song is called haddocks.|Angry
+0011/Angry/0011_000533.wav|Fresh pain seized Paul's body.|Angry
+0011/Angry/0011_000697.wav|What are you waiting for? man.|Angry
+0011/Angry/0011_000651.wav|I'm sure your friends can wait!|Angry
+0011/Angry/0011_000653.wav|I am loath to see him go.|Angry
+0011/Angry/0011_000441.wav|We expected Tom would jump for joy.|Angry
+0011/Angry/0011_000587.wav|What would they do at the end of the year?|Angry
+0011/Angry/0011_000607.wav|I would scoff at these followers.|Angry
+0011/Angry/0011_000498.wav|And on the top of them, came Winnie, the cute bear.|Angry
+0011/Angry/0011_000597.wav|She and i are running a neck and neck race.|Angry
+0011/Angry/0011_000518.wav|I said you looked like an egg, sir.|Angry
+0011/Angry/0011_000684.wav|Another one, ten thousand dollars.|Angry
+0011/Angry/0011_000577.wav|Born once every one hundred years, dies in flames!|Angry
+0011/Angry/0011_000571.wav|I am a selfish sinner.|Angry
+0011/Angry/0011_000628.wav|I know you .|Angry
+0011/Angry/0011_000669.wav|How could I dig burrows with short toe nails?|Angry
+0011/Angry/0011_000582.wav|Will call her Lili, for short.|Angry
+0011/Angry/0011_000643.wav|He is old fashioned but he is the best of men.|Angry
+0011/Angry/0011_000502.wav|Guilty for what do you rule?|Angry
+0011/Angry/0011_000483.wav|I smell the breath of an English.|Angry
+0011/Angry/0011_000529.wav|Daisy creams with pink edges.|Angry
+0011/Angry/0011_000437.wav|A hippo lives in the zoo.|Angry
+0011/Angry/0011_000507.wav|Blackbird, and Jay.|Angry
+0011/Angry/0011_000570.wav|Her paw went into your eye?|Angry
+0011/Angry/0011_000536.wav|She jump at the tail and bite it savagely.|Angry
+0011/Angry/0011_000501.wav|All the way to China is home.|Angry
+0011/Angry/0011_000410.wav|That I am a born nurse.|Angry
+0011/Angry/0011_000618.wav|He showed no signs of age.|Angry
+0011/Angry/0011_000482.wav|I thank you for this mercy!|Angry
+0011/Angry/0011_000474.wav|You know, answers to the name of Tom's son.|Angry
+0011/Angry/0011_000439.wav|Let go of my top knot.|Angry
+0011/Angry/0011_000433.wav|Be off now as quick as you may!|Angry
+0011/Angry/0011_000451.wav|It's me piglit, help help!|Angry
+0011/Angry/0011_000455.wav|He was killed by an arrow.|Angry
+0011/Angry/0011_000401.wav|Said the American to Chinese.|Angry
+0011/Angry/0011_000616.wav|We may join with that power.|Angry
+0011/Angry/0011_000557.wav|What am I, I'm a racer, son of god.|Angry
+0011/Angry/0011_000682.wav|where are you going?|Angry
+0011/Angry/0011_000510.wav|Kitty, you play chess?|Angry
+0011/Angry/0011_000471.wav|Finn and fairy shoemaker.|Angry
+0011/Angry/0011_000679.wav|And his heart wagged with joy like a lamb's tail.|Angry
+0011/Angry/0011_000402.wav|From August eighteenth, of their divorce.|Angry
+0011/Angry/0011_000650.wav|Six was half way down the room.|Angry
+0011/Angry/0011_000598.wav|In which piglet meets an elephant.|Angry
+0011/Angry/0011_000493.wav|Pussy can sit by the fire and sing.|Angry
+0011/Angry/0011_000666.wav|A thief in the night.|Angry
+0011/Angry/0011_000524.wav|I pay half a crown a week extra.|Angry
+0011/Angry/0011_000592.wav|Give me your hand or I will cry harder than before.|Angry
+0011/Angry/0011_000538.wav|Now quicker the fiddle went.|Angry
+0011/Angry/0011_000420.wav|Tom now let our arrows fly!|Angry
+0011/Angry/0011_000546.wav|Clear are your eyes and bright your breath!|Angry
+0011/Angry/0011_000469.wav|The owl flew into a bush.|Angry
+0011/Angry/0011_000473.wav|I am from towel land.|Angry
+0011/Angry/0011_000442.wav|Does the one that wins get the crowned?|Angry
+0011/Angry/0011_000685.wav|But things haven't change yet.|Angry
+0011/Angry/0011_000464.wav|A half pounds of flour and two ounces suet.|Angry
+0011/Angry/0011_000458.wav|The squire himself showed perfect.|Angry
+0011/Angry/0011_000432.wav|A fair jaw cracker dwarf language must be!|Angry
+0011/Angry/0011_000477.wav|Cos I know I had some honey.|Angry
+0011/Angry/0011_000649.wav|His hope will cheat him.|Angry
+0011/Angry/0011_000621.wav|I say I will be emperor.|Angry
+0011/Angry/0011_000549.wav|Captain Tom receives an angry letter.|Angry
+0011/Angry/0011_000526.wav|She just smiled calmly, mother knows that is the best smile.|Angry
+0011/Angry/0011_000404.wav|Are you a regular darkey really?|Angry
+0011/Angry/0011_000599.wav|You may imagine how I gape.|Angry
+0011/Angry/0011_000647.wav|How Tom and Jerry went to visit mister Sam.|Angry
+0011/Angry/0011_000639.wav|No, said piggy carelessly.|Angry
+0011/Angry/0011_000448.wav|Said the witch.|Angry
+0011/Angry/0011_000633.wav|They had been named Tom and Jerry.|Angry
+0011/Angry/0011_000453.wav|The elephant and the carpenter is the longest.|Angry
+0011/Angry/0011_000490.wav|What an impetuous boy he is!|Angry
+0011/Angry/0011_000565.wav|He likes dragons very much.|Angry
+0011/Angry/0011_000671.wav|Called out the cloud.|Angry
+0011/Angry/0011_000428.wav|The art quite safe with me.|Angry
+0011/Angry/0011_000519.wav|Sam waved his arm vaguely.|Angry
+0011/Angry/0011_000452.wav|This is Jack, the relatives of Tom.|Angry
+0011/Angry/0011_000632.wav|Alice I won't forget it again.|Angry
+0011/Angry/0011_000652.wav|Five hundred and one million right?|Angry
+0011/Angry/0011_000637.wav|A voice said: Come in.|Angry
+0011/Angry/0011_000408.wav|The octopus has eight legs.|Angry
+0011/Angry/0011_000403.wav|He was still in the forest!|Angry
+0011/Angry/0011_000461.wav|We nightly dance our heyday guise.|Angry
+0011/Angry/0011_000409.wav|Zero four three a silver shilling is journey.|Angry
+0011/Angry/0011_000512.wav|I lent george three pounds.|Angry
+0011/Angry/0011_000417.wav|I suppose no, it doesn't!|Angry
+0011/Angry/0011_000454.wav|Here i am whom you seek.|Angry
+0011/Angry/0011_000622.wav|No admittance except on party business.|Angry
+0011/Angry/0011_000635.wav|The straw, charcoal and the pea.|Angry
+0011/Angry/0011_000481.wav|It must come sometimes to jam a day.|Angry
+0011/Angry/0011_000634.wav|Chapter eighteen, the return journey.|Angry
+0011/Angry/0011_000690.wav|So Tom saw lastnight as it were broad daylight.|Angry
+0011/Angry/0011_000667.wav|At length they came to a sharp bend.|Angry
+0011/Angry/0011_000514.wav|His large mouth curled into a sneer.|Angry
+0011/Angry/0011_000445.wav|Aha what I have we here?|Angry
+0011/Angry/0011_000555.wav|Fear neither root nor sprout!|Angry
+0011/Angry/0011_000663.wav|Give me a fine fat goose.|Angry
+0011/Angry/0011_000515.wav|They were going fast, with a light clip.|Angry
+0011/Angry/0011_000620.wav|Chew leaves quickly, said rabbit.|Angry
+0011/Angry/0011_000586.wav|How rash you are!|Angry
+0011/Angry/0011_000672.wav|A special pot too.|Angry
+0011/Angry/0011_000406.wav|Your midget wife never can sing a song.|Angry
+0011/Angry/0011_000447.wav|Confess that you opened the thirteenth door.|Angry
+0011/Angry/0011_000661.wav|I am safe back again.|Angry
+0011/Angry/0011_000641.wav|The end of february fourteenth.|Angry
+0011/Angry/0011_000412.wav|Tom, went on eeyore gloomily.|Angry
+0011/Angry/0011_000489.wav|Cuckoos is downheaded and cry.|Angry
+0011/Angry/0011_000559.wav|A raging fire was in his eyes.|Angry
+0011/Angry/0011_000608.wav|Mum shuts one's mouth up, doesn't it.|Angry
+0011/Angry/0011_000556.wav|Still you owe it a duty.|Angry
+0011/Angry/0011_000551.wav|A lady, is on Alice's lap!|Angry
+0011/Angry/0011_000465.wav|He might call it, for example.|Angry
+0011/Angry/0011_000656.wav|Please invite Tom if there is not requires.|Angry
+0011/Angry/0011_000521.wav|I say neither yea nor nay.|Angry
+0011/Angry/0011_000614.wav|Slam the doors and wedge them!|Angry
+0011/Angry/0011_000456.wav|I guess it's a choice feast.|Angry
+0011/Angry/0011_000503.wav|But we are not high yet.|Angry
+0011/Angry/0011_000457.wav|Tom and Michael woke up next morning.|Angry
+0011/Angry/0011_000640.wav|There goes the shawl again!|Angry
+0011/Angry/0011_000532.wav|Age forty five if a day a lie.|Angry
+0011/Angry/0011_000500.wav|I hope you enjoyed yourself?|Angry
+0011/Angry/0011_000443.wav|To buy two pork chops.|Angry
+0011/Angry/0011_000431.wav|And I never had a whooping cough why.|Angry
+0011/Angry/0011_000636.wav|One two three, where is your breakfast.|Angry
+0011/Angry/0011_000517.wav|I toy with my liqueur.|Angry
+0011/Angry/0011_000573.wav|Pick, pick, pick!|Angry
+0011/Angry/0011_000604.wav|She laughed.|Angry
+0011/Angry/0011_000444.wav|They found a cow grazing in a field.|Angry
+0011/Angry/0011_000459.wav|If they mother knew it.|Angry
+0011/Angry/0011_000462.wav|Clown, to call him joey.|Angry
+0011/Angry/0011_000562.wav|No thank you.|Angry
+0011/Angry/0011_000664.wav|Bob goes to a new school.|Angry
+0011/Angry/0011_000491.wav|Can I lodge here tonight?|Angry
+0011/Angry/0011_000446.wav|I don't painted tiger.|Angry
+0011/Angry/0011_000675.wav|She has no place for hot peper .|Angry
+0011/Angry/0011_000543.wav|Please hire me after you.|Angry
+0011/Angry/0011_000460.wav|Act drop second act scene.|Angry
+0011/Angry/0011_000415.wav|Tom could hardly speak for laughing.|Angry
+0011/Angry/0011_000425.wav|I'd far rather go without them than eat them!|Angry
+0011/Angry/0011_000611.wav|After a while he perceived both giants.|Angry
+0011/Angry/0011_000522.wav|I shall say good bye.|Angry
+0011/Angry/0011_000595.wav|Do you think it's a woozle?|Angry
+0011/Angry/0011_000600.wav|Her kind and firm glance.|Angry
+0011/Angry/0011_000626.wav|Can your name be more hilarious?|Angry
+0011/Angry/0011_000544.wav|Yeah, I miss her.|Angry
+0011/Angry/0011_000418.wav|I do not eat bread.|Angry
+0011/Angry/0011_000566.wav|it isn't picked at all.|Angry
+0011/Angry/0011_000660.wav|Why it is just like the round egg which sounds thin.|Angry
+0011/Angry/0011_000472.wav|Am I an absolute pauper?|Angry
+0011/Angry/0011_000561.wav|From each cake, there sprang a huge dog.|Angry
+0011/Angry/0011_000642.wav|She has a high voice.|Angry
+0011/Angry/0011_000579.wav|The first year they sowed rye.|Angry
+0011/Angry/0011_000623.wav|I'd just as soon swim your way as others do.|Angry
+0011/Angry/0011_000485.wav|I blinked my eyes hard.|Angry
+0011/Angry/0011_000480.wav|And would spoil my joke.|Angry
+0011/Angry/0011_000470.wav|Our King George is labourers.|Angry
+0011/Angry/0011_000511.wav|That's a full grown colt.|Angry
+0011/Angry/0011_000527.wav|Tom fell with a cloven head.|Angry
+0011/Angry/0011_000588.wav|Today isn't an other day.|Angry
+0011/Angry/0011_000691.wav|Enough,you a foolish chatter.|Angry
+0011/Angry/0011_000513.wav|How they went to the mountains to eat nuts.|Angry
+0011/Angry/0011_000478.wav|Put that rude grasshopper in jail!|Angry
+0011/Angry/0011_000648.wav|She come back to the valley.|Angry
+0011/Angry/0011_000568.wav|I'll send for Tom to my boudoir.|Angry
+0011/Angry/0011_000553.wav|I was not grabbed.|Angry
+0011/Angry/0011_000670.wav|Goat Billy asked the old chinese guy.|Angry
+0011/Angry/0011_000603.wav|I have a soothsayer.|Angry
+0011/Angry/0011_000528.wav|And vowed he'd change the pigtail's place.|Angry
+0011/Angry/0011_000584.wav|Hurry up, hurry up!|Angry
+0011/Angry/0011_000539.wav|When such wanderers meet.|Angry
+0011/Angry/0011_000487.wav|Let the glass globe be.|Angry
+0011/Angry/0011_000475.wav|To catch that bulrush root with my paw!|Angry
+0011/Angry/0011_000617.wav|Chapter eleven on the doorstep.|Angry
+0011/Angry/0011_000696.wav|I am going to back home.|Angry
+0011/Angry/0011_000576.wav|And the next day. Nurse will be released.|Angry
+0011/Angry/0011_000554.wav|The song is really louding on a gate.|Angry
+0011/Angry/0011_000463.wav|Mister lawson saw george last night.|Angry
+0011/Angry/0011_000609.wav|The song is called Ways and Means.|Angry
+0011/Angry/0011_000509.wav|Such tunes are joy to a dance fay.|Angry
+0011/Angry/0011_000405.wav|A deafening chirruping rent the air.|Angry
+0011/Angry/0011_000694.wav|Lucy, a clever farmer.|Angry
+0011/Angry/0011_000574.wav|Do you know the lid opens?|Angry
+0011/Angry/0011_000427.wav|But I saw you walking.|Angry
+0011/Angry/0011_000610.wav|As soon as she went in, there was disorder.|Angry
+0011/Angry/0011_000407.wav|Hannibal came to see you.|Angry
+0011/Angry/0011_000435.wav|Suppose I take grandmother a fresh vegetable.|Angry
+0011/Angry/0011_000411.wav|Midyear is day, shire year.|Angry
+0011/Angry/0011_000494.wav|We all see panda on TV or in the zoo.|Angry
+0011/Angry/0011_000602.wav|I am run off my feet.|Angry
+0011/Angry/0011_000644.wav|Now I understand.|Angry
+0011/Angry/0011_000506.wav|The eye could not catch them.|Angry
+0011/Angry/0011_000605.wav|This was the twenty fifth of november, seventeen eighty three.|Angry
+0011/Angry/0011_000676.wav|They are made of wood.|Angry
+0011/Angry/0011_000572.wav|Ask god to help you.|Angry
+0011/Angry/0011_000688.wav|Paul's teeth ached because of lemon.|Angry
+0011/Angry/0011_000658.wav|Perhaps you think that is a queer title for this chapter.|Angry
+0011/Angry/0011_000523.wav|He searched through the box.|Angry
+0011/Angry/0011_000695.wav|A whirring noise was heard.|Angry
+0011/Angry/0011_000687.wav|But mom I'm not certain about.|Angry
+0011/Angry/0011_000596.wav|We can not do it sir.|Angry
+0011/Angry/0011_000681.wav|She'll be feverish after so much thinking.|Angry
+0011/Angry/0011_000692.wav|Why should I purchase my own?|Angry
+0011/Angry/0011_000612.wav|I believe you are one of them!|Angry
+0011/Angry/0011_000674.wav|And she caught at the brooch.|Angry
+0011/Angry/0011_000421.wav|She was born on april nineteen forty three.|Angry
+0011/Angry/0011_000535.wav|The new born baby is stolen as we go.|Angry
+0011/Angry/0011_000537.wav|An hour out of Guildford town.|Angry
+0011/Angry/0011_000659.wav|He owed mister Lawson, I can't tell you how.|Angry
+0011/Angry/0011_000564.wav|what are this thing, sticky!|Angry
+0011/Angry/0011_000552.wav|that sounds good.|Angry
+0011/Angry/0011_000497.wav|And there you'll find a snap dragon fly.|Angry
+0011/Angry/0011_000575.wav|Her existence makes him pleasant.|Angry
+0011/Angry/0011_000426.wav|The hag looked in the stove.|Angry
+0011/Angry/0011_000505.wav|This speech roused dame ilse to anger.|Angry
+0011/Angry/0011_000699.wav|What do you think of this question?|Angry
+0011/Angry/0011_000689.wav|I"ll be with you,Tom!|Angry
+0011/Angry/0011_000590.wav|Both sides were softly curved.|Angry
+0011/Angry/0011_000484.wav|Rare rabbit had a little apron.|Angry
+0011/Angry/0011_000673.wav|Why did I wake up!|Angry
+0011/Angry/0011_000440.wav|And they did push so!|Angry
+0011/Angry/0011_000560.wav|It weighs seven point five kilogram.|Angry
+0011/Angry/0011_000615.wav|I've just shot a stag.|Angry
+0011/Angry/0011_000638.wav|She has felt shy of it.|Angry
+0011/Angry/0011_000646.wav|You woke me up!|Angry
+0011/Angry/0011_000436.wav|And tick a tack too.|Angry
+0011/Angry/0011_000662.wav|Father has yellow eyes.|Angry
+0011/Angry/0011_000467.wav|They were children of mine.|Angry
+0011/Angry/0011_000558.wav|However, somebody killed something.|Angry
+0011/Angry/0011_000591.wav|We have showed his shark tooth.|Angry
+0011/Angry/0011_000680.wav|She keeps saying I'm hers.|Angry
+0011/Angry/0011_000429.wav|All my gum tips gone as well.|Angry
+0011/Angry/0011_000627.wav|The end part is fish mouth.|Angry
+0011/Angry/0011_000606.wav|I must have two to fetch and carry.|Angry
+0011/Angry/0011_000619.wav|But show me now your map!|Angry
+0011/Angry/0011_000580.wav|Your own wife is not at home.|Angry
+0011/Angry/0011_000585.wav|If not, I shall go no further.|Angry
+0011/Angry/0011_000499.wav|My winding sheet!|Angry
+0011/Angry/0011_000419.wav|Not much use is it, sam?|Angry
+0011/Angry/0011_000683.wav|You gain for nothing girl!|Angry
+0011/Angry/0011_000534.wav|We have been fine, haven't we?|Angry
+0011/Angry/0011_000496.wav|He said to Jack, the chatterer.|Angry
+0011/Angry/0011_000434.wav|By hook or by crook.|Angry
+0011/Angry/0011_000495.wav|Reed by the living pool!|Angry
+0011/Angry/0011_000678.wav|It would be a hard choice.|Angry
+0011/Angry/0011_000645.wav|I know how to obey orders.|Angry
+0011/Angry/0011_000504.wav|He dreamt them all that.|Angry
+0011/Angry/0011_000567.wav|You cruelty shall cost your life !|Angry
+0011/Angry/0011_000569.wav|But the tune isn't his own invention.|Angry
+0011/Angry/0011_000492.wav|Wake up my merry tads!|Angry
+0011/Angry/0011_000450.wav|Well anyhow it didn't rain, he said.|Angry
+0011/Angry/0011_000594.wav|Off for the prison ship.|Angry
+0011/Angry/0011_000423.wav|how suspicious this fox.|Angry
+0011/Angry/0011_000563.wav|Let it give us a chance, my precious.|Angry
+0011/Angry/0011_000624.wav|Because he was a man with infinite resource and sagacity.|Angry
+0011/Angry/0011_000486.wav|She has eaten the tapioca all of it.|Angry
+0011/Angry/0011_000630.wav|Your path now goes south.|Angry
+0011/Angry/0011_000625.wav|You shouldn't have pricked him with your horn.|Angry
+0011/Angry/0011_000530.wav|Toast from the bread fruit tree.|Angry
+0011/Angry/0011_000613.wav|She said in subdued voice.|Angry
+0011/Angry/0011_000550.wav|That cloth does not look worth much!|Angry
+0011/Angry/0011_000430.wav|Then there was a report.|Angry
+0011/Angry/0011_000657.wav|I owe them five hundred dollars.|Angry
+0011/Angry/0011_000545.wav|A boat put out on the bay.|Angry
+0011/Angry/0011_000578.wav|It says no way! shouted Daisy.|Angry
+0011/Angry/0011_000516.wav|They ate beef the butcher shop.|Angry
+0011/Angry/0011_000583.wav|Why should i care though David's lips were twitching?|Angry
+0011/Angry/0011_000468.wav|Look out! said Alice.|Angry
+0011/Angry/0011_000525.wav|All this we won by our labour.|Angry
+0011/Angry/0011_000631.wav|He could not help doing so.|Angry
+0011/Angry/0011_000476.wav|this turn goes to the hill.|Angry
+0011/Angry/0011_000548.wav|I'd shoot myself. a pause.|Angry
+0011/Angry/0011_000520.wav|But if you hadn't done them.|Angry
+0011/Angry/0011_000693.wav|And what does it mean?|Angry
+0011/Neutral/0011_000304.wav|How do you like you dirty bird!|Neutral
+0011/Neutral/0011_000103.wav|The elephant and the carpenter is the longest.|Neutral
+0011/Neutral/0011_000124.wav|You know, answers to the name of Tom's son.|Neutral
+0011/Neutral/0011_000283.wav|They had been named Tom and Jerry.|Neutral
+0011/Neutral/0011_000104.wav|Here i am whom you seek.|Neutral
+0011/Neutral/0011_000242.wav|Give me your hand or I will cry harder than before.|Neutral
+0011/Neutral/0011_000137.wav|Let this glass globe be.|Neutral
+0011/Neutral/0011_000111.wav|We nightly dance our heyday guise.|Neutral
+0011/Neutral/0011_000166.wav|They ate beef at the butcher shop.|Neutral
+0011/Neutral/0011_000231.wav|He told me that I ought to change.|Neutral
+0011/Neutral/0011_000108.wav|The squire himself showed perfect.|Neutral
+0011/Neutral/0011_000118.wav|Look out! said Alice.|Neutral
+0011/Neutral/0011_000300.wav|Six was half way down the room.|Neutral
+0011/Neutral/0011_000126.wav|will this turn goes to the hill.|Neutral
+0011/Neutral/0011_000165.wav|They were going fast, with a light clip.|Neutral
+0011/Neutral/0011_000092.wav|Does the one that wins get the crowned?|Neutral
+0011/Neutral/0011_000245.wav|Do you think it's a woozle?|Neutral
+0011/Neutral/0011_000284.wav|Chapter eighteen, the return journey.|Neutral
+0011/Neutral/0011_000080.wav|Then there was a report.|Neutral
+0011/Neutral/0011_000060.wav|That I am a born nurse.|Neutral
+0011/Neutral/0011_000207.wav|What am I, I'm a racer, son of god.|Neutral
+0011/Neutral/0011_000295.wav|I know how to obey orders.|Neutral
+0011/Neutral/0011_000089.wav|Let go of my top knot.|Neutral
+0011/Neutral/0011_000128.wav|Put that rude grasshopper in jail!|Neutral
+0011/Neutral/0011_000272.wav|No admittance except on party business.|Neutral
+0011/Neutral/0011_000239.wav|This is the way that snakes always talk.|Neutral
+0011/Neutral/0011_000258.wav|Mum shuts one's mouth up, doesn't it.|Neutral
+0011/Neutral/0011_000095.wav|what i have we here?|Neutral
+0011/Neutral/0011_000273.wav|I'd just as soon swim your way as others do.|Neutral
+0011/Neutral/0011_000141.wav|Can I lodge here tonight?|Neutral
+0011/Neutral/0011_000129.wav|A large flat ferry boat was moored beside it.|Neutral
+0011/Neutral/0011_000191.wav|I make her quite nervy at times.|Neutral
+0011/Neutral/0011_000100.wav|Well anyhow it didn't rain, he said.|Neutral
+0011/Neutral/0011_000062.wav|Tom, went on eeyore gloomily.|Neutral
+0011/Neutral/0011_000235.wav|If not, I shall go no further.|Neutral
+0011/Neutral/0011_000114.wav|A half pounds of flour and two ounces suet.|Neutral
+0011/Neutral/0011_000257.wav|I would scoff at these followers.|Neutral
+0011/Neutral/0011_000308.wav|Perhaps you think that is a queer title for this chapter.|Neutral
+0011/Neutral/0011_000227.wav|Born once every one hundred years, dies in flames!|Neutral
+0011/Neutral/0011_000133.wav|I can smell the breath of an English.|Neutral
+0011/Neutral/0011_000085.wav|Suppose I take grandmother a fresh vegetable.|Neutral
+0011/Neutral/0011_000150.wav|I hope you enjoyed yourself?|Neutral
+0011/Neutral/0011_000096.wav|I don't painted tiger.|Neutral
+0011/Neutral/0011_000292.wav|She has a high voice.|Neutral
+0011/Neutral/0011_000053.wav|He was still in the forest!|Neutral
+0011/Neutral/0011_000148.wav|And on the top of them, came Winnie, the cute bear.|Neutral
+0011/Neutral/0011_000230.wav|Your own wife is not at home.|Neutral
+0011/Neutral/0011_000175.wav|All this we have won by our labour.|Neutral
+0011/Neutral/0011_000220.wav|Her paw went into your eye?|Neutral
+0011/Neutral/0011_000222.wav|Ask god to help you.|Neutral
+0011/Neutral/0011_000302.wav|Five hundred and one million right?|Neutral
+0011/Neutral/0011_000224.wav|Do you know the lid opens?|Neutral
+0011/Neutral/0011_000289.wav|No, said piggy carelessly.|Neutral
+0011/Neutral/0011_000246.wav|We can not do it sir.|Neutral
+0011/Neutral/0011_000339.wav|And be with you,Tom!|Neutral
+0011/Neutral/0011_000109.wav|If they mother knew it.|Neutral
+0011/Neutral/0011_000072.wav|How are you, dear child?|Neutral
+0011/Neutral/0011_000110.wav|Act drop second act scene.|Neutral
+0011/Neutral/0011_000146.wav|He said to Jack, the chatterer.|Neutral
+0011/Neutral/0011_000067.wav|I suppose no, it doesn't!|Neutral
+0011/Neutral/0011_000247.wav|She and i are running a neck and neck race.|Neutral
+0011/Neutral/0011_000122.wav|Am I an absolute pauper?|Neutral
+0011/Neutral/0011_000073.wav|how suspicious this fox.|Neutral
+0011/Neutral/0011_000180.wav|Toast from the bread fruit tree.|Neutral
+0011/Neutral/0011_000159.wav|Such tunes are joy to dancing fay.|Neutral
+0011/Neutral/0011_000205.wav|Fear neither root nor sprout!|Neutral
+0011/Neutral/0011_000197.wav|Fur flew through the air, teeth gnashed.|Neutral
+0011/Neutral/0011_000307.wav|I owe them five hundred dollars.|Neutral
+0011/Neutral/0011_000325.wav|She has no place for hot peper .|Neutral
+0011/Neutral/0011_000226.wav|And the next day. Nurse will be released.|Neutral
+0011/Neutral/0011_000075.wav|I'd far rather go without them than eat them!|Neutral
+0011/Neutral/0011_000326.wav|They are made of wood.|Neutral
+0011/Neutral/0011_000347.wav|What are you waiting for? man.|Neutral
+0011/Neutral/0011_000145.wav|Reed by the living pool!|Neutral
+0011/Neutral/0011_000079.wav|All my gum tips gone as well.|Neutral
+0011/Neutral/0011_000340.wav|So Tom saw night as it were broad daylight.|Neutral
+0011/Neutral/0011_000262.wav|I believe you are one of them!|Neutral
+0011/Neutral/0011_000059.wav|Zero four three a silver shilling is journey.|Neutral
+0011/Neutral/0011_000063.wav|Asteroid three hundred and twenty five.|Neutral
+0011/Neutral/0011_000121.wav|Finn and the fairy shoemaker.|Neutral
+0011/Neutral/0011_000267.wav|Chapter eleven on the doorstep.|Neutral
+0011/Neutral/0011_000296.wav|You woke me up!|Neutral
+0011/Neutral/0011_000223.wav|Pick, pick, pick!|Neutral
+0011/Neutral/0011_000216.wav|well it isn't picked at all.|Neutral
+0011/Neutral/0011_000253.wav|I have a soothsayer.|Neutral
+0011/Neutral/0011_000221.wav|I am a selfish sinner.|Neutral
+0011/Neutral/0011_000287.wav|A voice said: Come in.|Neutral
+0011/Neutral/0011_000286.wav|One two three, where is your breakfast.|Neutral
+0011/Neutral/0011_000199.wav|Captain Tom receives an angry letter.|Neutral
+0011/Neutral/0011_000343.wav|And what does it mean?|Neutral
+0011/Neutral/0011_000134.wav|Rare rabbit had a little apron.|Neutral
+0011/Neutral/0011_000240.wav|Both side were softly curved.|Neutral
+0011/Neutral/0011_000248.wav|In which piglet meets an elephant.|Neutral
+0011/Neutral/0011_000212.wav|No thank you.|Neutral
+0011/Neutral/0011_000338.wav|Paul's teeth ached because of lemon.|Neutral
+0011/Neutral/0011_000188.wav|Now quicker the fiddle went.|Neutral
+0011/Neutral/0011_000259.wav|The song is called Ways and Means.|Neutral
+0011/Neutral/0011_000334.wav|Another one, ten thousand dollars.|Neutral
+0011/Neutral/0011_000181.wav|First, issue a reward.|Neutral
+0011/Neutral/0011_000155.wav|This speech roused dame ilse to anger.|Neutral
+0011/Neutral/0011_000234.wav|Hurry up, hurry up!|Neutral
+0011/Neutral/0011_000243.wav|And has you slain him?|Neutral
+0011/Neutral/0011_000061.wav|Midyear is day, shire year.|Neutral
+0011/Neutral/0011_000202.wav|yeah that sounds good.|Neutral
+0011/Neutral/0011_000346.wav|I am going back to back home.|Neutral
+0011/Neutral/0011_000201.wav|A lady, is on Alice's lap!|Neutral
+0011/Neutral/0011_000282.wav|Alice I won't forget it again.|Neutral
+0011/Neutral/0011_000186.wav|She jump at the tail and bite it savagely.|Neutral
+0011/Neutral/0011_000098.wav|Said the witch.|Neutral
+0011/Neutral/0011_000093.wav|To buy two pork chops.|Neutral
+0011/Neutral/0011_000176.wav|She just smiled calmly, mother knows that is the best smile.|Neutral
+0011/Neutral/0011_000139.wav|Cuckoos is downheaded and cry.|Neutral
+0011/Neutral/0011_000174.wav|I pay half a crown a week extra.|Neutral
+0011/Neutral/0011_000264.wav|Slam the doors and wedge them!|Neutral
+0011/Neutral/0011_000252.wav|I am run off my feet.|Neutral
+0011/Neutral/0011_000195.wav|A boat put out on the bay.|Neutral
+0011/Neutral/0011_000147.wav|And there you'll find a snap dragon fly.|Neutral
+0011/Neutral/0011_000097.wav|Confess that you opened the thirteenth door.|Neutral
+0011/Neutral/0011_000293.wav|He is old fashioned but he is the best of men.|Neutral
+0011/Neutral/0011_000256.wav|I must have two to fetch and carry.|Neutral
+0011/Neutral/0011_000297.wav|How Tom and Jerry went to visit mister Sam.|Neutral
+0011/Neutral/0011_000182.wav|Age forty five if a day a lie.|Neutral
+0011/Neutral/0011_000331.wav|She'll be feverish after so much thinking.|Neutral
+0011/Neutral/0011_000319.wav|How could I dig burrows with short toe nails?|Neutral
+0011/Neutral/0011_000298.wav|She come back to the valley.|Neutral
+0011/Neutral/0011_000270.wav|Chew leaves quickly, said rabbit.|Neutral
+0011/Neutral/0011_000163.wav|How they went to the mountains to eat nuts.|Neutral
+0011/Neutral/0011_000125.wav|To catch that bulrush root with my paw!|Neutral
+0011/Neutral/0011_000236.wav|How rash you are!|Neutral
+0011/Neutral/0011_000130.wav|And would spoil my joke.|Neutral
+0011/Neutral/0011_000303.wav|I am loath to see him go.|Neutral
+0011/Neutral/0011_000143.wav|Pussy can sit by the fire and sing.|Neutral
+0011/Neutral/0011_000064.wav|And we are so thirsty!|Neutral
+0011/Neutral/0011_000172.wav|I shall say good bye.|Neutral
+0011/Neutral/0011_000206.wav|Still you owe it a duty.|Neutral
+0011/Neutral/0011_000266.wav|We may join with that power.|Neutral
+0011/Neutral/0011_000183.wav|Fresh pain seized Paul's body.|Neutral
+0011/Neutral/0011_000169.wav|Sam waved his arm vaguely.|Neutral
+0011/Neutral/0011_000268.wav|He showed no signs of age.|Neutral
+0011/Neutral/0011_000068.wav|I do not eat bread.|Neutral
+0011/Neutral/0011_000091.wav|We expected Tom would jump for joy.|Neutral
+0011/Neutral/0011_000314.wav|Bob goes to a new school.|Neutral
+0011/Neutral/0011_000280.wav|Your path now goes south.|Neutral
+0011/Neutral/0011_000288.wav|She has felt shy of it.|Neutral
+0011/Neutral/0011_000136.wav|She has eaten the tapioca all-of it.|Neutral
+0011/Neutral/0011_000192.wav|I have had to grow old.|Neutral
+0011/Neutral/0011_000341.wav|Enough,you foolish chatter.|Neutral
+0011/Neutral/0011_000261.wav|After a while he perceived both giants.|Neutral
+0011/Neutral/0011_000344.wav|Lucy, a clever farmer.|Neutral
+0011/Neutral/0011_000154.wav|He dreamt them all night.|Neutral
+0011/Neutral/0011_000077.wav|But I saw you walking.|Neutral
+0011/Neutral/0011_000294.wav|Now I understand.|Neutral
+0011/Neutral/0011_000076.wav|The hag looked in the stove.|Neutral
+0011/Neutral/0011_000233.wav|Why should i care though David's lips were twitching?|Neutral
+0011/Neutral/0011_000229.wav|The first year they sowed rye.|Neutral
+0011/Neutral/0011_000052.wav|From August eighteenth, of their divorce.|Neutral
+0011/Neutral/0011_000228.wav|It says no way! shouted Daisy.|Neutral
+0011/Neutral/0011_000138.wav|But one requires the explorer to furnish proofs.|Neutral
+0011/Neutral/0011_000132.wav|my god I thank you for this mercy!|Neutral
+0011/Neutral/0011_000281.wav|He could not help doing so.|Neutral
+0011/Neutral/0011_000168.wav|I said you looked like an egg, sir.|Neutral
+0011/Neutral/0011_000162.wav|I lent george three pounds.|Neutral
+0011/Neutral/0011_000170.wav|But if you hadn't done them.|Neutral
+0011/Neutral/0011_000237.wav|What would they do at the end of the year?|Neutral
+0011/Neutral/0011_000083.wav|Be off now as quick as you may!|Neutral
+0011/Neutral/0011_000301.wav|I'm sure your friends can wait!|Neutral
+0011/Neutral/0011_000310.wav|Why it is just like the round egg which sounds thin.|Neutral
+0011/Neutral/0011_000156.wav|The eye could not catch them.|Neutral
+0011/Neutral/0011_000116.wav|No, I burst the balloon!|Neutral
+0011/Neutral/0011_000249.wav|You may imagine how I gape.|Neutral
+0011/Neutral/0011_000311.wav|I am back safe again.|Neutral
+0011/Neutral/0011_000055.wav|A deafening chirruping rent the air.|Neutral
+0011/Neutral/0011_000066.wav|Shall we let barbara in?|Neutral
+0011/Neutral/0011_000217.wav|You cruelty shall cost your life !|Neutral
+0011/Neutral/0011_000149.wav|My winding sheet!|Neutral
+0011/Neutral/0011_000127.wav|Cos I know I had some honey.|Neutral
+0011/Neutral/0011_000101.wav|It's me piglit, help help!|Neutral
+0011/Neutral/0011_000244.wav|Off for the prison ship.|Neutral
+0011/Neutral/0011_000200.wav|That cloth does not look worth much!|Neutral
+0011/Neutral/0011_000269.wav|But show me how your map!|Neutral
+0011/Neutral/0011_000241.wav|We have showed his shark tooth.|Neutral
+0011/Neutral/0011_000275.wav|You shouldn't have pricked him with your horn.|Neutral
+0011/Neutral/0011_000330.wav|She keeps saying I'm hers.|Neutral
+0011/Neutral/0011_000084.wav|By hook or by crook.|Neutral
+0011/Neutral/0011_000090.wav|And they did push so!|Neutral
+0011/Neutral/0011_000211.wav|From each cake, there sprang a huge dog.|Neutral
+0011/Neutral/0011_000115.wav|He might call it, for example.|Neutral
+0011/Neutral/0011_000214.wav|But what about this thing, sticky!|Neutral
+0011/Neutral/0011_000285.wav|The straw, charcoal and the pea.|Neutral
+0011/Neutral/0011_000112.wav|Clown, to call him joey.|Neutral
+0011/Neutral/0011_000123.wav|I am from towel land.|Neutral
+0011/Neutral/0011_000318.wav|The name of the song is called haddocks.|Neutral
+0011/Neutral/0011_000342.wav|Why should I purchase my own?|Neutral
+0011/Neutral/0011_000328.wav|It would be a hard choice.|Neutral
+0011/Neutral/0011_000203.wav|I was not grabbed.|Neutral
+0011/Neutral/0011_000157.wav|Blackbird, and Jay.|Neutral
+0011/Neutral/0011_000291.wav|The end of february fourteenth.|Neutral
+0011/Neutral/0011_000299.wav|His hope will cheat him.|Neutral
+0011/Neutral/0011_000113.wav|Mister lawson saw george last night.|Neutral
+0011/Neutral/0011_000274.wav|Because he was a man with infinite resource and sagacity.|Neutral
+0011/Neutral/0011_000151.wav|All the way to China is home.|Neutral
+0011/Neutral/0011_000142.wav|Wake now my merry tads!|Neutral
+0011/Neutral/0011_000119.wav|The owl flew into a bush.|Neutral
+0011/Neutral/0011_000322.wav|A special pot too.|Neutral
+0011/Neutral/0011_000190.wav|And they were sandy yellow brownish all over.|Neutral
+0011/Neutral/0011_000345.wav|A whirring noise was heard.|Neutral
+0011/Neutral/0011_000238.wav|Today isn't an other day.|Neutral
+0011/Neutral/0011_000329.wav|And his heart wagged with joy like a lamb's tail.|Neutral
+0011/Neutral/0011_000324.wav|And she caught at the brooch.|Neutral
+0011/Neutral/0011_000189.wav|When such wanderers meet.|Neutral
+0011/Neutral/0011_000135.wav|I blinked my eyes hard.|Neutral
+0011/Neutral/0011_000350.wav|Do you have anything in mind?|Neutral
+0011/Neutral/0011_000218.wav|I'll send for Tom to my boudoir.|Neutral
+0011/Neutral/0011_000208.wav|However, somebody killed something.|Neutral
+0011/Neutral/0011_000348.wav|Dear customer,welcome to our ship.|Neutral
+0011/Neutral/0011_000054.wav|Are you a regular darkey really?|Neutral
+0011/Neutral/0011_000058.wav|The octopus has eight legs.|Neutral
+0011/Neutral/0011_000250.wav|Her kind and firm glance.|Neutral
+0011/Neutral/0011_000315.wav|It's to say how  you do with Tom's answer.|Neutral
+0011/Neutral/0011_000158.wav|it looks much better.|Neutral
+0011/Neutral/0011_000260.wav|As soon as she went in, there was disorder.|Neutral
+0011/Neutral/0011_000290.wav|There goes the shawl again!|Neutral
+0011/Neutral/0011_000152.wav|Guilty for what do you rule?|Neutral
+0011/Neutral/0011_000320.wav|Goat Billy asked the old chinese guy.|Neutral
+0011/Neutral/0011_000254.wav|She laughed.|Neutral
+0011/Neutral/0011_000276.wav|Can your name be more hilarious?|Neutral
+0011/Neutral/0011_000196.wav|Clear are your eyes and bright your breath!|Neutral
+0011/Neutral/0011_000337.wav|But mom I'm not certain about.|Neutral
+0011/Neutral/0011_000088.wav|In my opinion that is a good idea!|Neutral
+0011/Neutral/0011_000323.wav|Why did I wake up!|Neutral
+0011/Neutral/0011_000193.wav|Please hire me after you.|Neutral
+0011/Neutral/0011_000313.wav|Give me a fine fat goose.|Neutral
+0011/Neutral/0011_000198.wav|I'd shoot myself. |Neutral
+0011/Neutral/0011_000219.wav|But the tune isn't his own invention.|Neutral
+0011/Neutral/0011_000161.wav|That's a full grown colt.|Neutral
+0011/Neutral/0011_000232.wav|Will call her Lili, for short.|Neutral
+0011/Neutral/0011_000051.wav|Said the American to the Chinese.|Neutral
+0011/Neutral/0011_000209.wav|A raging fire was in his eyes.|Neutral
+0011/Neutral/0011_000078.wav|The art quite safe with me.|Neutral
+0011/Neutral/0011_000065.wav|Tom could hardly speak for laughing.|Neutral
+0011/Neutral/0011_000333.wav|You gain for nothing girl!|Neutral
+0011/Neutral/0011_000074.wav|Come on my jack in the boxes!|Neutral
+0011/Neutral/0011_000102.wav|This is Jack, the relatives of Tom.|Neutral
+0011/Neutral/0011_000105.wav|He was killed by an arrow.|Neutral
+0011/Neutral/0011_000153.wav|But we are not high yet.|Neutral
+0011/Neutral/0011_000120.wav|Our King George is labourers.|Neutral
+0011/Neutral/0011_000177.wav|Tom fell with a cloven head.|Neutral
+0011/Neutral/0011_000140.wav|What an impetuous boy he is!|Neutral
+0011/Neutral/0011_000071.wav|She was born on april nineteen forty three.|Neutral
+0011/Neutral/0011_000187.wav|An hour out of Guildford town.|Neutral
+0011/Neutral/0011_000070.wav|Tom now let our arrows fly!|Neutral
+0011/Neutral/0011_000215.wav|He likes dragons very much.|Neutral
+0011/Neutral/0011_000265.wav|I've just shot a stag.|Neutral
+0011/Neutral/0011_000277.wav|The end part is fish mouth.|Neutral
+0011/Neutral/0011_000309.wav|He owed mister Lawson, I can't tell you how.|Neutral
+0011/Neutral/0011_000213.wav|Let it give us a chance, my precious.|Neutral
+0011/Neutral/0011_000173.wav|He searched through the box.|Neutral
+0011/Neutral/0011_000082.wav|A fair jaw cracker dwarf language must be!|Neutral
+0011/Neutral/0011_000255.wav|This was the twenty fifth of november, seventeen eighty three.|Neutral
+0011/Neutral/0011_000057.wav|Hannibal come to see you.|Neutral
+0011/Neutral/0011_000316.wav|A thief in the night.|Neutral
+0011/Neutral/0011_000306.wav|Please invite Tom if there is not requires.|Neutral
+0011/Neutral/0011_000069.wav|Not much use is it, sam?|Neutral
+0011/Neutral/0011_000184.wav|We have been fine, haven't we?|Neutral
+0011/Neutral/0011_000185.wav|The new born baby is stolen as we go.|Neutral
+0011/Neutral/0011_000144.wav|We all see panda on TV or in the zoo.|Neutral
+0011/Neutral/0011_000171.wav|I say neither yea nor nay.|Neutral
+0011/Neutral/0011_000279.wav|These words behind the ears is nonsense.|Neutral
+0011/Neutral/0011_000332.wav|where are you going?|Neutral
+0011/Neutral/0011_000178.wav|And vowed he'd change the pigtail's place.|Neutral
+0011/Neutral/0011_000336.wav|Over them swooped the eagles.|Neutral
+0011/Neutral/0011_000278.wav|I know you .|Neutral
+0011/Neutral/0011_000312.wav|Father has yellow eyes.|Neutral
+0011/Neutral/0011_000194.wav|Yes, I miss her.|Neutral
+0011/Neutral/0011_000086.wav|And tick a tack too.|Neutral
+0011/Neutral/0011_000131.wav|It must come sometimes to jam a day.|Neutral
+0011/Neutral/0011_000179.wav|Daisy creams with pink edges.|Neutral
+0011/Neutral/0011_000081.wav|And I never had a whooping cough why.|Neutral
+0011/Neutral/0011_000335.wav|But things haven't change yet.|Neutral
+0011/Neutral/0011_000164.wav|His large mouth curled into a sneer.|Neutral
+0011/Neutral/0011_000321.wav|Called out the cloud.|Neutral
+0011/Neutral/0011_000251.wav|The ladybug told them proudly.|Neutral
+0011/Neutral/0011_000305.wav|The fisherman and his wife see George every day.|Neutral
+0011/Neutral/0011_000087.wav|A hippo lives in the zoo.|Neutral
+0011/Neutral/0011_000099.wav|I've hit the wrong nose.|Neutral
+0011/Neutral/0011_000263.wav|She said in subdued voice.|Neutral
+0011/Neutral/0011_000094.wav|They found a cow grazing in a field.|Neutral
+0011/Neutral/0011_000327.wav|It's part of my secret.|Neutral
+0011/Neutral/0011_000160.wav|Kitty, can you play chess?|Neutral
+0011/Neutral/0011_000225.wav|Her existence makes him pleasant.|Neutral
+0011/Neutral/0011_000204.wav|The song is really louding on a gate.|Neutral
+0011/Neutral/0011_000056.wav|Your midget wife can never sing a song.|Neutral
+0011/Neutral/0011_000210.wav|It weighs seven point five kilogram.|Neutral
+0011/Neutral/0011_000349.wav|What do you think of this question?|Neutral
+0011/Neutral/0011_000271.wav|I say I will be emperor.|Neutral
+0011/Neutral/0011_000117.wav|They were children of mine.|Neutral
+0011/Neutral/0011_000107.wav|Tom and Michael woke up next morning.|Neutral
+0011/Neutral/0011_000167.wav|I toy with my liqueur.|Neutral
+0011/Neutral/0011_000317.wav|At length they came to a sharp bend.|Neutral
+0011/Neutral/0011_000106.wav|I guess it's a choice feast.|Neutral
+0011/Sad/0011_001321.wav|I say I will be emperor.|Sad
+0011/Sad/0011_001372.wav|A special pot too.|Sad
+0011/Sad/0011_001370.wav|Goat Billy asked the old chinese guy.|Sad
+0011/Sad/0011_001328.wav|I know you .|Sad
+0011/Sad/0011_001305.wav|This was the twenty fifth of november, seventeen eighty three.|Sad
+0011/Sad/0011_001337.wav|A voice said: Come in.|Sad
+0011/Sad/0011_001169.wav|The owl flew into a bush.|Sad
+0011/Sad/0011_001343.wav|He is old fashioned but he is the best of men.|Sad
+0011/Sad/0011_001160.wav|Act drop second act scene.|Sad
+0011/Sad/0011_001314.wav|Slam the doors and wedge them!|Sad
+0011/Sad/0011_001223.wav|He searched through the box.|Sad
+0011/Sad/0011_001115.wav|Tom could hardly speak for laughing.|Sad
+0011/Sad/0011_001350.wav|Six was half way down the room.|Sad
+0011/Sad/0011_001339.wav|No, said piggy carelessly.|Sad
+0011/Sad/0011_001226.wav|She just smiled calmly, mother knows that is the best smile.|Sad
+0011/Sad/0011_001110.wav|That I am a born nurse.|Sad
+0011/Sad/0011_001391.wav|Enough,you a foolish chatter.|Sad
+0011/Sad/0011_001233.wav|Fresh pain seized Paul's body.|Sad
+0011/Sad/0011_001295.wav|Do you think it's a woozle?|Sad
+0011/Sad/0011_001298.wav|In which piglet meets a elephant.|Sad
+0011/Sad/0011_001379.wav|And his heart wagged with joy like a lamb's tail.|Sad
+0011/Sad/0011_001335.wav|The straw, charcoal and the pea.|Sad
+0011/Sad/0011_001107.wav|Hannibal come to see you.|Sad
+0011/Sad/0011_001122.wav|How are you, dear child?|Sad
+0011/Sad/0011_001312.wav|I believe you are one of them!|Sad
+0011/Sad/0011_001322.wav|No admittance except on party business.|Sad
+0011/Sad/0011_001304.wav|She laughed.|Sad
+0011/Sad/0011_001397.wav|What are you waiting for? man.|Sad
+0011/Sad/0011_001361.wav|I am safe back again.|Sad
+0011/Sad/0011_001244.wav|Yes, I miss her.|Sad
+0011/Sad/0011_001277.wav|Born once every one hundred years, dies in flames!|Sad
+0011/Sad/0011_001165.wav|He might call it, for example.|Sad
+0011/Sad/0011_001300.wav|Her kind and firm glance.|Sad
+0011/Sad/0011_001254.wav|The song is really louding on a gate.|Sad
+0011/Sad/0011_001102.wav|From August eighteenth, of their divorce.|Sad
+0011/Sad/0011_001150.wav|Well anyhow it didn't rain, he said.|Sad
+0011/Sad/0011_001289.wav|This the way that snakes always talk.|Sad
+0011/Sad/0011_001288.wav|Today isn't any other day.|Sad
+0011/Sad/0011_001194.wav|We all see panda on TV or in the zoo.|Sad
+0011/Sad/0011_001141.wav|We expected Tom would jump for joy.|Sad
+0011/Sad/0011_001125.wav|I'd far rather go without them than eat them!|Sad
+0011/Sad/0011_001248.wav|I'd shoot myself. a pause.|Sad
+0011/Sad/0011_001326.wav|Can your name be more hilarious?|Sad
+0011/Sad/0011_001137.wav|A hippo lives in the zoo.|Sad
+0011/Sad/0011_001103.wav|He was still in the forest!|Sad
+0011/Sad/0011_001207.wav|Blackbird, and Jay.|Sad
+0011/Sad/0011_001205.wav|This speech roused dame ilse to anger.|Sad
+0011/Sad/0011_001356.wav|Please invite Tom if there is not requires.|Sad
+0011/Sad/0011_001212.wav|I lent george three pounds.|Sad
+0011/Sad/0011_001249.wav|Captain Tom receives an angry letter.|Sad
+0011/Sad/0011_001163.wav|Mister lawson saw george last night.|Sad
+0011/Sad/0011_001389.wav|And be with you,Tom!|Sad
+0011/Sad/0011_001275.wav|Her existence makes him pleasant.|Sad
+0011/Sad/0011_001179.wav|A large flat ferry boat was moored beside it.|Sad
+0011/Sad/0011_001126.wav|The hag looked in the stove.|Sad
+0011/Sad/0011_001364.wav|Bob goes to a new school.|Sad
+0011/Sad/0011_001157.wav|Tom and Michael woke up the next morning.|Sad
+0011/Sad/0011_001313.wav|She said in subdued voice.|Sad
+0011/Sad/0011_001334.wav|Chapter eighteen, the return journey.|Sad
+0011/Sad/0011_001215.wav|They were going fast, with a light clip.|Sad
+0011/Sad/0011_001279.wav|The first year they sowed rye.|Sad
+0011/Sad/0011_001309.wav|The song is called Ways and Means.|Sad
+0011/Sad/0011_001109.wav|Zero four three a silver shilling is journey.|Sad
+0011/Sad/0011_001399.wav|What do you think of this question?|Sad
+0011/Sad/0011_001192.wav|Wake now my merry tads!|Sad
+0011/Sad/0011_001369.wav|How could I dig burrows with short toe nails?|Sad
+0011/Sad/0011_001302.wav|I am run off my feet.|Sad
+0011/Sad/0011_001333.wav|They had been named Tom and Jerry.|Sad
+0011/Sad/0011_001147.wav|Confess that you opened the thirteenth door.|Sad
+0011/Sad/0011_001382.wav|where are you going?|Sad
+0011/Sad/0011_001291.wav|We have showed his shark tooth.|Sad
+0011/Sad/0011_001374.wav|And she caught at the brooch.|Sad
+0011/Sad/0011_001315.wav|I've just shot a stag.|Sad
+0011/Sad/0011_001170.wav|Our King George is labourers.|Sad
+0011/Sad/0011_001181.wav|It must come sometimes to jam a day.|Sad
+0011/Sad/0011_001341.wav|The end of february fourteenth.|Sad
+0011/Sad/0011_001318.wav|He showed no signs of age.|Sad
+0011/Sad/0011_001365.wav|It's to say how do you do with Tom's answer.|Sad
+0011/Sad/0011_001168.wav|Look out! said Alice.|Sad
+0011/Sad/0011_001154.wav|Here am i whom you seek.|Sad
+0011/Sad/0011_001367.wav|At length they came to a sharp bend.|Sad
+0011/Sad/0011_001134.wav|By hook or by crook.|Sad
+0011/Sad/0011_001138.wav|In my opinion that is a good idea!|Sad
+0011/Sad/0011_001250.wav|That cloth does not look like worth much!|Sad
+0011/Sad/0011_001396.wav|I am going to go back home.|Sad
+0011/Sad/0011_001287.wav|What would they do at the end of the year?|Sad
+0011/Sad/0011_001255.wav|Fear neither root nor sprout!|Sad
+0011/Sad/0011_001184.wav|Rare rabbit had a little apron.|Sad
+0011/Sad/0011_001393.wav|And what does it mean?|Sad
+0011/Sad/0011_001265.wav|He likes dragons very much.|Sad
+0011/Sad/0011_001178.wav|Put that rude grasshopper in jail!|Sad
+0011/Sad/0011_001123.wav|how suspicious this fox.|Sad
+0011/Sad/0011_001269.wav|But the tune isn't his own invention.|Sad
+0011/Sad/0011_001225.wav|All this have we won by our labour.|Sad
+0011/Sad/0011_001159.wav|If they mother knew it.|Sad
+0011/Sad/0011_001174.wav|You know, answers to the name of Tom's son.|Sad
+0011/Sad/0011_001199.wav|My winding sheet!|Sad
+0011/Sad/0011_001242.wav|I have had to grow old.|Sad
+0011/Sad/0011_001151.wav|It's me piglit, help help!|Sad
+0011/Sad/0011_001323.wav|I'd just as soon swim your way as others do.|Sad
+0011/Sad/0011_001388.wav|Paul's teeth ached because of lemon.|Sad
+0011/Sad/0011_001133.wav|Be off now as quick as you may!|Sad
+0011/Sad/0011_001128.wav|The art quite safe with me.|Sad
+0011/Sad/0011_001355.wav|The fisherman and his wife see George every day.|Sad
+0011/Sad/0011_001140.wav|And they did push so!|Sad
+0011/Sad/0011_001376.wav|They are made of wood.|Sad
+0011/Sad/0011_001227.wav|Tom fell with a cloven head.|Sad
+0011/Sad/0011_001214.wav|His large mouth curled into a sneer.|Sad
+0011/Sad/0011_001324.wav|Because he was a man with infinite resource and sagacity.|Sad
+0011/Sad/0011_001232.wav|Age forty five if a day a lie.|Sad
+0011/Sad/0011_001188.wav|But one requires the explorer to furnish proofs.|Sad
+0011/Sad/0011_001219.wav|Sam waved his arm vaguely.|Sad
+0011/Sad/0011_001111.wav|Midyear is day, shire year.|Sad
+0011/Sad/0011_001211.wav|That's a full grown colt.|Sad
+0011/Sad/0011_001327.wav|The end part is fish mouth.|Sad
+0011/Sad/0011_001303.wav|I have a soothsayer.|Sad
+0011/Sad/0011_001200.wav|I hope you enjoyed yourself?|Sad
+0011/Sad/0011_001143.wav|To buy two pork chops.|Sad
+0011/Sad/0011_001308.wav|Mum shuts one's mouth up, doesn't it.|Sad
+0011/Sad/0011_001177.wav|Cos I know I had some honey.|Sad
+0011/Sad/0011_001166.wav|No, I burst the balloon!|Sad
+0011/Sad/0011_001345.wav|I know how to obey orders.|Sad
+0011/Sad/0011_001268.wav|I'll send for Tom to my boudoir.|Sad
+0011/Sad/0011_001175.wav|To catch that bulrush root with my paw!|Sad
+0011/Sad/0011_001261.wav|From each cake, there sprang a huge dog.|Sad
+0011/Sad/0011_001375.wav|She has no place for hot peper .|Sad
+0011/Sad/0011_001101.wav|Said the American to the Chinese.|Sad
+0011/Sad/0011_001246.wav|Clear are your eyes and bright your breath!|Sad
+0011/Sad/0011_001336.wav|One two three, where is your breakfast.|Sad
+0011/Sad/0011_001342.wav|She has a high voice.|Sad
+0011/Sad/0011_001351.wav|I'm sure your friends can wait!|Sad
+0011/Sad/0011_001144.wav|They found a cow grazing in a field.|Sad
+0011/Sad/0011_001153.wav|The elephant and the carpenter is the longest.|Sad
+0011/Sad/0011_001317.wav|Chapter eleven on the doorstep.|Sad
+0011/Sad/0011_001377.wav|It's part of my secret.|Sad
+0011/Sad/0011_001240.wav|And they were sandy yellow brownish all over.|Sad
+0011/Sad/0011_001221.wav|I say neither yea nor nay.|Sad
+0011/Sad/0011_001230.wav|Toast from the bread fruit tree.|Sad
+0011/Sad/0011_001332.wav|Alice I won't forget it again.|Sad
+0011/Sad/0011_001358.wav|Perhaps you think there is a queer title for this chapter.|Sad
+0011/Sad/0011_001146.wav|I don't painted tiger.|Sad
+0011/Sad/0011_001359.wav|He owed mister Lawson, I can't tell you how.|Sad
+0011/Sad/0011_001307.wav|I would scoff at these followers.|Sad
+0011/Sad/0011_001286.wav|How rash you!|Sad
+0011/Sad/0011_001352.wav|Five hundred and one million right?|Sad
+0011/Sad/0011_001263.wav|Let it give us a chance, my precious.|Sad
+0011/Sad/0011_001251.wav|A lady, is on Alice's lap!|Sad
+0011/Sad/0011_001241.wav|I make her quite nervy at times.|Sad
+0011/Sad/0011_001197.wav|And there you'll find a snap dragon fly.|Sad
+0011/Sad/0011_001259.wav|A raging fire was in his eyes.|Sad
+0011/Sad/0011_001264.wav|But what about this thing, sticky!|Sad
+0011/Sad/0011_001167.wav|They were children of mine.|Sad
+0011/Sad/0011_001272.wav|Ask god to help you.|Sad
+0011/Sad/0011_001258.wav|However, somebody killed something.|Sad
+0011/Sad/0011_001190.wav|Who an impetuous boy he is!|Sad
+0011/Sad/0011_001231.wav|First, issue a reward.|Sad
+0011/Sad/0011_001362.wav|Father has yellow eyes.|Sad
+0011/Sad/0011_001121.wav|She was born on april nineteen forty three.|Sad
+0011/Sad/0011_001162.wav|Clown, to call him joey.|Sad
+0011/Sad/0011_001373.wav|Why did I wake up!|Sad
+0011/Sad/0011_001354.wav|How do you like you dirty bird!|Sad
+0011/Sad/0011_001105.wav|A deafening chirruping rent the air.|Sad
+0011/Sad/0011_001384.wav|Another one, ten thousand dollars.|Sad
+0011/Sad/0011_001353.wav|I am loath to see him go.|Sad
+0011/Sad/0011_001340.wav|There goes the shawl again!|Sad
+0011/Sad/0011_001306.wav|I must have two to fetch and carry.|Sad
+0011/Sad/0011_001193.wav|Pussy can sit by the fire and sing.|Sad
+0011/Sad/0011_001282.wav|Will call her Lili, for short.|Sad
+0011/Sad/0011_001290.wav|Both side were softly curved.|Sad
+0011/Sad/0011_001176.wav|this turn goes to a hill.|Sad
+0011/Sad/0011_001131.wav|And I never had a whooping cough why.|Sad
+0011/Sad/0011_001357.wav|I owe them five hundred dollars.|Sad
+0011/Sad/0011_001112.wav|Tom, went on eeyore gloomily.|Sad
+0011/Sad/0011_001266.wav|it isn't picked at all.|Sad
+0011/Sad/0011_001257.wav|What am I, I'm a racer, son of god.|Sad
+0011/Sad/0011_001394.wav|Lucy, a clever farmer.|Sad
+0011/Sad/0011_001299.wav|You may imagine how I gape.|Sad
+0011/Sad/0011_001281.wav|He told me that I ought to change.|Sad
+0011/Sad/0011_001276.wav|And the next day. Nurse will be released.|Sad
+0011/Sad/0011_001294.wav|Off for the prison ship.|Sad
+0011/Sad/0011_001329.wav|These words behind the ears is nonsense.|Sad
+0011/Sad/0011_001136.wav|And tick a tack too.|Sad
+0011/Sad/0011_001201.wav|All the way to China is home.|Sad
+0011/Sad/0011_001238.wav|Now quicker the fiddle went.|Sad
+0011/Sad/0011_001280.wav|Your own wife is not at home.|Sad
+0011/Sad/0011_001108.wav|The octopus has eight legs.|Sad
+0011/Sad/0011_001120.wav|Tom now let our arrows fly!|Sad
+0011/Sad/0011_001186.wav|She has eaten the tapioca all of it.|Sad
+0011/Sad/0011_001330.wav|Your path goes south.|Sad
+0011/Sad/0011_001113.wav|Asteroid three hundred and twenty five.|Sad
+0011/Sad/0011_001274.wav|Do you know the lid opens?|Sad
+0011/Sad/0011_001278.wav|It says no way! shouted Daisy.|Sad
+0011/Sad/0011_001243.wav|Please hire me after you.|Sad
+0011/Sad/0011_001273.wav|Pick, pick, pick!|Sad
+0011/Sad/0011_001283.wav|Why should i care though David's lips were twitching?|Sad
+0011/Sad/0011_001229.wav|Daisy creams with pink edges.|Sad
+0011/Sad/0011_001202.wav|Guilty for what do you rule?|Sad
+0011/Sad/0011_001400.wav|Do you have anything in mind?|Sad
+0011/Sad/0011_001285.wav|If not, I shall go no further.|Sad
+0011/Sad/0011_001380.wav|She keeps saying I'm hers.|Sad
+0011/Sad/0011_001145.wav|Aha what have i we here?|Sad
+0011/Sad/0011_001360.wav|Why is just like the round egg which sounds thin.|Sad
+0011/Sad/0011_001217.wav|I toy with my liqueur.|Sad
+0011/Sad/0011_001311.wav|After a while he perceived both giants.|Sad
+0011/Sad/0011_001213.wav|How they went to the mountains to eat nuts.|Sad
+0011/Sad/0011_001301.wav|The ladybug told them proudly.|Sad
+0011/Sad/0011_001320.wav|Chew leaves quickly, said rabbit.|Sad
+0011/Sad/0011_001189.wav|Cuckoos is downheaded and cry.|Sad
+0011/Sad/0011_001325.wav|You shouldn't have pricked him with your horn.|Sad
+0011/Sad/0011_001383.wav|You gain for nothing girl!|Sad
+0011/Sad/0011_001284.wav|Hurry up, hurry up!|Sad
+0011/Sad/0011_001235.wav|The new born baby is stolen as we go.|Sad
+0011/Sad/0011_001203.wav|But we are not high yet.|Sad
+0011/Sad/0011_001386.wav|Over them swooped the eagles.|Sad
+0011/Sad/0011_001171.wav|Finn and the fairy shoemaker.|Sad
+0011/Sad/0011_001247.wav|Fur flew through the air, teeth gnashed.|Sad
+0011/Sad/0011_001239.wav|When such wanderers meet.|Sad
+0011/Sad/0011_001204.wav|He dreamt them all night.|Sad
+0011/Sad/0011_001180.wav|And would spoil my joke.|Sad
+0011/Sad/0011_001366.wav|A thief in the night.|Sad
+0011/Sad/0011_001346.wav|You woke me up!|Sad
+0011/Sad/0011_001344.wav|Now I understand.|Sad
+0011/Sad/0011_001310.wav|As soon as she went in, there was disorder.|Sad
+0011/Sad/0011_001117.wav|I suppose no, it doesn't!|Sad
+0011/Sad/0011_001331.wav|He could not help doing so.|Sad
+0011/Sad/0011_001196.wav|He said to Jack, the chatterer.|Sad
+0011/Sad/0011_001224.wav|I pay half a crown a week extra.|Sad
+0011/Sad/0011_001267.wav|You cruelty shall cost your life !|Sad
+0011/Sad/0011_001297.wav|She and i are running a neck and neck race.|Sad
+0011/Sad/0011_001262.wav|No thank you.|Sad
+0011/Sad/0011_001116.wav|Shall we let barbara in?|Sad
+0011/Sad/0011_001149.wav|I've hit the wrong nose.|Sad
+0011/Sad/0011_001348.wav|She come back to the valley.|Sad
+0011/Sad/0011_001387.wav|But mom I'm not certain about.|Sad
+0011/Sad/0011_001118.wav|I do not eat bread.|Sad
+0011/Sad/0011_001210.wav|Kitty, can you play chess?|Sad
+0011/Sad/0011_001198.wav|And on the top of them, came Winnie, the cute bear.|Sad
+0011/Sad/0011_001252.wav|that sounds good.|Sad
+0011/Sad/0011_001142.wav|Does the one that wins get the crowned?|Sad
+0011/Sad/0011_001135.wav|Suppose I take grandmother a fresh vegetable.|Sad
+0011/Sad/0011_001156.wav|I guess it's a choice feast.|Sad
+0011/Sad/0011_001222.wav|I shall say good bye.|Sad
+0011/Sad/0011_001187.wav|Let the glass globe be.|Sad
+0011/Sad/0011_001206.wav|The eye could not catch them.|Sad
+0011/Sad/0011_001172.wav|Am I an absolute pauper?|Sad
+0011/Sad/0011_001124.wav|Come on my jack in the boxes!|Sad
+0011/Sad/0011_001234.wav|We have been fine, haven't we?|Sad
+0011/Sad/0011_001183.wav|I smell the breath of an English.|Sad
+0011/Sad/0011_001152.wav|This is Jack, the relatives of Tom.|Sad
+0011/Sad/0011_001127.wav|But I saw you walking.|Sad
+0011/Sad/0011_001216.wav|They ate beef at the butcher shop.|Sad
+0011/Sad/0011_001130.wav|Then there was a report.|Sad
+0011/Sad/0011_001245.wav|A boat put out on the bay.|Sad
+0011/Sad/0011_001161.wav|We nightly dance our heyday guise.|Sad
+0011/Sad/0011_001148.wav|Said the witch.|Sad
+0011/Sad/0011_001338.wav|She has felt shy of it.|Sad
+0011/Sad/0011_001195.wav|Reed by the living pool!|Sad
+0011/Sad/0011_001106.wav|Your midget wife never can sing a song.|Sad
+0011/Sad/0011_001104.wav|Are you a regular darkey really?|Sad
+0011/Sad/0011_001129.wav|All my gum tips gone as well.|Sad
+0011/Sad/0011_001220.wav|But if you hadn't done them.|Sad
+0011/Sad/0011_001228.wav|And vowed he'd change the pigtail's place.|Sad
+0011/Sad/0011_001256.wav|Still you owe it a duty.|Sad
+0011/Sad/0011_001349.wav|His hope will cheat him.|Sad
+0011/Sad/0011_001209.wav|Such tunes are joy to a dancing fay.|Sad
+0011/Sad/0011_001296.wav|We can not do it sir.|Sad
+0011/Sad/0011_001119.wav|Not much use is it, sam?|Sad
+0011/Sad/0011_001319.wav|But show me now your map!|Sad
+0011/Sad/0011_001173.wav|I am from towel land.|Sad
+0011/Sad/0011_001368.wav|The name of the song is called haddocks.|Sad
+0011/Sad/0011_001208.wav|it looks much better.|Sad
+0011/Sad/0011_001398.wav|Dear customer,welcome to our ship.|Sad
+0011/Sad/0011_001158.wav|The squire himself showed perfect.|Sad
+0011/Sad/0011_001185.wav|I blinked my eyes hard.|Sad
+0011/Sad/0011_001378.wav|It would be a hard choice.|Sad
+0011/Sad/0011_001132.wav|A fair jaw cracker dwarf language must be!|Sad
+0011/Sad/0011_001385.wav|But things haven't change yet.|Sad
+0011/Sad/0011_001390.wav|So Tom saw lastnight as it were broad daylight.|Sad
+0011/Sad/0011_001363.wav|Give me a fine fat goose.|Sad
+0011/Sad/0011_001182.wav|I thank you for this mercy!|Sad
+0011/Sad/0011_001260.wav|It weighs seven point five kilogram.|Sad
+0011/Sad/0011_001347.wav|How Tom and Jerry went to visit mister Sam.|Sad
+0011/Sad/0011_001155.wav|He was killed by an arrow.|Sad
+0011/Sad/0011_001218.wav|I said you looked like an egg, sir.|Sad
+0011/Sad/0011_001392.wav|Why should I purchase my own?|Sad
+0011/Sad/0011_001164.wav|A half pounds of flour and two ounces suet.|Sad
+0011/Sad/0011_001270.wav|Her paw went into your eye?|Sad
+0011/Sad/0011_001381.wav|She'll be feverish after so much thinking.|Sad
+0011/Sad/0011_001237.wav|An hour out of Guildford town.|Sad
+0011/Sad/0011_001191.wav|Can I lodge here tonight?|Sad
+0011/Sad/0011_001236.wav|She jump at the tail and bite it savagely.|Sad
+0011/Sad/0011_001395.wav|A whirring noise was heard.|Sad
+0011/Sad/0011_001316.wav|We may join with that power.|Sad
+0011/Sad/0011_001292.wav|Give me your hand or I will cry harder than before.|Sad
+0011/Sad/0011_001271.wav|I am a selfish sinner.|Sad
+0011/Sad/0011_001293.wav|And has you slain him?|Sad
+0011/Sad/0011_001114.wav|And we are so thirsty!|Sad
+0011/Sad/0011_001371.wav|Called out the cloud.|Sad
+0011/Sad/0011_001253.wav|I was not grabbed.|Sad
+0011/Sad/0011_001139.wav|Let go of my top knot.|Sad
