@@ -1,0 +1,8 @@
+DataSet/
+Other_Data/
+Save_ckpt/
+checkpoints/
+hubert-base-ls960/
+train_Data/
+!config.json
+!args.yml

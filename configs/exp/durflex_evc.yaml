@@ -1,0 +1,4 @@
+base_config:
+  - configs/models/evc/durflex.yaml
+  - configs/datasets/esd/preprocess.yaml
+work_dir: content/drive/MyDrive/EVC/Save_ckpt/DurFlex
