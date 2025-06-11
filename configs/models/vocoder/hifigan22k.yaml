@@ -1,0 +1,33 @@
+# configs/models/vocoder/hifigan22k.yaml
+base_config:
+  - ./base.yaml
+task_cls: tasks.vocoder.hifigan.HifiGanTask
+
+# HiFi-GAN 22kHz 아키텍처 설정
+resblock: "1"
+upsample_rates: [8, 8, 2, 2]
+upsample_kernel_sizes: [16, 16, 4, 4]
+upsample_initial_channel: 512
+resblock_kernel_sizes: [3, 7, 11]
+resblock_dilation_sizes: 
+  - [1, 3, 5]
+  - [1, 3, 5]  
+  - [1, 3, 5]
+
+# Discriminator 설정
+discriminator: "mpd+msd"
+periods: [2, 3, 5, 7, 11]
+use_spectral_norm: false
+
+# Loss 가중치
+lambda_adv: 1.0
+lambda_mel: 45.0
+lambda_feat_match: 2.0
+use_fm_loss: true
+
+# 22kHz 최적화 파라미터
+generator_lr: 0.0002
+discriminator_lr: 0.0002
+adam_b1: 0.8
+adam_b2: 0.99
+lr_decay: 0.999

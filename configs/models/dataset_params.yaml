@@ -1,4 +1,4 @@
-audio_num_mel_bins: 80
+audio_num_mel_bins: 80 #mel-frequency band의 갯수
 out_dims: 80 # Model's output dimension
 audio_sample_rate: 22050
 hop_size: 256 # For 22050Hz, 275 ~= 12.5 ms (0.0125 * sample_rate)

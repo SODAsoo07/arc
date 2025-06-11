@@ -13,20 +13,20 @@ test_ids: []
 mel_vmin: -6
 mel_vmax: 1.5
 
-vocoder: BigVGAN
-vocoder_ckpt: checkpoints/best_netG.pt
-vocoder_cls: models.vocoder.bigvgan.BigVGAN
-vocoder_config: configs/models/vocoder/bigvgan16k.yaml
+vocoder: HiFiGAN
+vocoder_ckpt: checkpoints/pytorch_model.bin
+vocoder_cls: models.vocoder.hifigan.HiFiGAN
+vocoder_config: configs/models/vocoder/hifigan22k.yaml
 
 num_spk: 1
 audio_num_mel_bins: 80
-out_dims: 80 # Model's output dimension
-audio_sample_rate: 16000
-hop_size: 256 # For 22050Hz, 275 ~= 12.5 ms (0.0125 * sample_rate)
-win_size: 1024 # For 22050Hz, 1100 ~= 50 ms (If None, win_size: fft_size) (0.05 * sample_rate)
-fft_size: 1024 # Extra window size is filled with 0 paddings to match this parameter
-fmin: 0 # Set this to 55 if your speaker is male! if female, 95 should help taking off noise. (To test depending on dataset. Pitch info: male~[65, 260], female~[100, 525])
-fmax: 8000 # To be increased/reduced depending on data.
+out_dims: 80
+audio_sample_rate: 22050  # 16000 → 22050으로 변경
+hop_size: 256             # 그대로 유지 (256 samples ≈ 11.6ms at 22kHz)
+win_size: 1024            # 그대로 유지
+fft_size: 1024            # 그대로 유지
+fmin: 0
+fmax: 8000                # 보코더 모델명에 맞게 8kHz 유지
 f0_min: 80
 f0_max: 800
 

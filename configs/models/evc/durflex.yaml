@@ -40,3 +40,7 @@ max_updates: 500000
 
 # loss lambda
 lambda_ph_dur: 0.1
+
+# 22kHz에 맞춘 프레임 설정 조정
+max_frames: 1720  # 22050/16000 * 1548 ≈ 1720
+max_input_tokens: 1720

@@ -1,5 +1,5 @@
 base_config:
   - configs/models/evc/durflex.yaml
   - configs/datasets/esd/preprocess.yaml
-work_dir: ./Test1
+work_dir: "./Test1"
 # work_dir에 절대경로를 입력하지 말자. 현재 경로 밑에 work_dir에 넣은 그대로 폴더를 생성해준다...
